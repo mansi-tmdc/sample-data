@@ -1,0 +1,1451 @@
+[
+  {
+    "RiskID": "RD0001",
+    "FundID": "DODGX",
+    "MarketRisk": 4.83,
+    "CreditRisk": 3.76,
+    "OperationalRisk": 0.97,
+    "Date": "2008-07-04",
+    "RiskAssessment": "Drug study no must all defense its."
+  },
+  {
+    "RiskID": "RD0002",
+    "FundID": "DODGX",
+    "MarketRisk": 6.83,
+    "CreditRisk": 3.09,
+    "OperationalRisk": 9.68,
+    "Date": "2018-09-23",
+    "RiskAssessment": "Focus number nice news local."
+  },
+  {
+    "RiskID": "RD0003",
+    "FundID": "DODGX",
+    "MarketRisk": 6.27,
+    "CreditRisk": 8.2,
+    "OperationalRisk": 2.29,
+    "Date": "2008-07-02",
+    "RiskAssessment": "Reason check television represent ball adult."
+  },
+  {
+    "RiskID": "RD0004",
+    "FundID": "DODGX",
+    "MarketRisk": 7.39,
+    "CreditRisk": 2.38,
+    "OperationalRisk": 6.48,
+    "Date": "2023-09-28",
+    "RiskAssessment": "Well fear discover meeting sit decide."
+  },
+  {
+    "RiskID": "RD0005",
+    "FundID": "DODGX",
+    "MarketRisk": 3.46,
+    "CreditRisk": 4.08,
+    "OperationalRisk": 6.96,
+    "Date": "2020-12-05",
+    "RiskAssessment": "Garden future something performance."
+  },
+  {
+    "RiskID": "RD0006",
+    "FundID": "DODGX",
+    "MarketRisk": 3.08,
+    "CreditRisk": 6.75,
+    "OperationalRisk": 0.4,
+    "Date": "2017-02-09",
+    "RiskAssessment": "Approach current strategy reality."
+  },
+  {
+    "RiskID": "RD0007",
+    "FundID": "DODGX",
+    "MarketRisk": 0.55,
+    "CreditRisk": 1.28,
+    "OperationalRisk": 9.77,
+    "Date": "2020-08-29",
+    "RiskAssessment": "Section treatment build agent draw suggest responsibility."
+  },
+  {
+    "RiskID": "RD0008",
+    "FundID": "DODGX",
+    "MarketRisk": 2.81,
+    "CreditRisk": 0.01,
+    "OperationalRisk": 9.54,
+    "Date": "2015-10-08",
+    "RiskAssessment": "Goal whose tend lose."
+  },
+  {
+    "RiskID": "RD0009",
+    "FundID": "DODGX",
+    "MarketRisk": 3.04,
+    "CreditRisk": 9.6,
+    "OperationalRisk": 2.55,
+    "Date": "2013-03-10",
+    "RiskAssessment": "Actually kitchen just guy when soon."
+  },
+  {
+    "RiskID": "RD0010",
+    "FundID": "DODGX",
+    "MarketRisk": 4.42,
+    "CreditRisk": 0.71,
+    "OperationalRisk": 1.9,
+    "Date": "2024-02-17",
+    "RiskAssessment": "Sell despite very argue middle."
+  },
+  {
+    "RiskID": "RD0011",
+    "FundID": "DODGX",
+    "MarketRisk": 1.5,
+    "CreditRisk": 4.9,
+    "OperationalRisk": 5.26,
+    "Date": "2012-02-29",
+    "RiskAssessment": "At beyond role those painting least evening tell."
+  },
+  {
+    "RiskID": "RD0012",
+    "FundID": "DODGX",
+    "MarketRisk": 9.84,
+    "CreditRisk": 2.8,
+    "OperationalRisk": 0.89,
+    "Date": "2023-11-28",
+    "RiskAssessment": "Skin can national director television institution sport practice."
+  },
+  {
+    "RiskID": "RD0013",
+    "FundID": "DODGX",
+    "MarketRisk": 5.39,
+    "CreditRisk": 6.1,
+    "OperationalRisk": 1.22,
+    "Date": "2020-03-03",
+    "RiskAssessment": "Local science low trip scene million."
+  },
+  {
+    "RiskID": "RD0014",
+    "FundID": "DODGX",
+    "MarketRisk": 7.83,
+    "CreditRisk": 4.79,
+    "OperationalRisk": 2.59,
+    "Date": "2007-10-23",
+    "RiskAssessment": "Scientist enjoy understand newspaper step."
+  },
+  {
+    "RiskID": "RD0015",
+    "FundID": "DODGX",
+    "MarketRisk": 0.75,
+    "CreditRisk": 6.39,
+    "OperationalRisk": 9.24,
+    "Date": "2010-10-25",
+    "RiskAssessment": "And seek scene pretty."
+  },
+  {
+    "RiskID": "RD0016",
+    "FundID": "DODGX",
+    "MarketRisk": 3.25,
+    "CreditRisk": 3.14,
+    "OperationalRisk": 0.28,
+    "Date": "2015-09-18",
+    "RiskAssessment": "Surface human international there."
+  },
+  {
+    "RiskID": "RD0017",
+    "FundID": "DODGX",
+    "MarketRisk": 4.29,
+    "CreditRisk": 7.03,
+    "OperationalRisk": 5.23,
+    "Date": "2015-06-23",
+    "RiskAssessment": "Blue opportunity miss like."
+  },
+  {
+    "RiskID": "RD0018",
+    "FundID": "DODGX",
+    "MarketRisk": 9.2,
+    "CreditRisk": 1.8,
+    "OperationalRisk": 9.54,
+    "Date": "2017-02-15",
+    "RiskAssessment": "Avoid now anyone suffer give."
+  },
+  {
+    "RiskID": "RD0019",
+    "FundID": "DODGX",
+    "MarketRisk": 7.41,
+    "CreditRisk": 0.68,
+    "OperationalRisk": 0.13,
+    "Date": "2015-11-21",
+    "RiskAssessment": "Item modern reason experience."
+  },
+  {
+    "RiskID": "RD0020",
+    "FundID": "DODWX",
+    "MarketRisk": 2.37,
+    "CreditRisk": 9.01,
+    "OperationalRisk": 3.6,
+    "Date": "2015-02-15",
+    "RiskAssessment": "Certain growth charge other debate song ago."
+  },
+  {
+    "RiskID": "RD0021",
+    "FundID": "DODWX",
+    "MarketRisk": 8.55,
+    "CreditRisk": 5.6,
+    "OperationalRisk": 4.06,
+    "Date": "2007-06-18",
+    "RiskAssessment": "View she same attention."
+  },
+  {
+    "RiskID": "RD0022",
+    "FundID": "DODWX",
+    "MarketRisk": 4.41,
+    "CreditRisk": 0.04,
+    "OperationalRisk": 1.93,
+    "Date": "2006-08-09",
+    "RiskAssessment": "Trouble keep page word."
+  },
+  {
+    "RiskID": "RD0023",
+    "FundID": "DODWX",
+    "MarketRisk": 6.0,
+    "CreditRisk": 1.94,
+    "OperationalRisk": 9.71,
+    "Date": "2014-11-02",
+    "RiskAssessment": "Interview board its main most itself forget."
+  },
+  {
+    "RiskID": "RD0024",
+    "FundID": "DODWX",
+    "MarketRisk": 1.36,
+    "CreditRisk": 0.54,
+    "OperationalRisk": 5.03,
+    "Date": "2010-11-16",
+    "RiskAssessment": "Admit question six media each enjoy together."
+  },
+  {
+    "RiskID": "RD0025",
+    "FundID": "DODWX",
+    "MarketRisk": 7.44,
+    "CreditRisk": 6.59,
+    "OperationalRisk": 9.49,
+    "Date": "2012-08-16",
+    "RiskAssessment": "Firm clearly town figure region hand own."
+  },
+  {
+    "RiskID": "RD0026",
+    "FundID": "DODWX",
+    "MarketRisk": 8.68,
+    "CreditRisk": 0.39,
+    "OperationalRisk": 3.51,
+    "Date": "2018-03-24",
+    "RiskAssessment": "Realize hot off lot attack."
+  },
+  {
+    "RiskID": "RD0027",
+    "FundID": "DODWX",
+    "MarketRisk": 0.83,
+    "CreditRisk": 9.85,
+    "OperationalRisk": 7.02,
+    "Date": "2022-05-13",
+    "RiskAssessment": "Trip respond language example live first PM culture."
+  },
+  {
+    "RiskID": "RD0028",
+    "FundID": "DODWX",
+    "MarketRisk": 9.46,
+    "CreditRisk": 0.69,
+    "OperationalRisk": 6.01,
+    "Date": "2023-03-13",
+    "RiskAssessment": "Court own sit cause size make."
+  },
+  {
+    "RiskID": "RD0029",
+    "FundID": "DODWX",
+    "MarketRisk": 8.08,
+    "CreditRisk": 4.87,
+    "OperationalRisk": 6.2,
+    "Date": "2018-01-04",
+    "RiskAssessment": "Move bed bit minute loss upon central."
+  },
+  {
+    "RiskID": "RD0030",
+    "FundID": "DODWX",
+    "MarketRisk": 5.89,
+    "CreditRisk": 3.82,
+    "OperationalRisk": 2.29,
+    "Date": "2016-11-22",
+    "RiskAssessment": "Benefit race only onto up environment."
+  },
+  {
+    "RiskID": "RD0031",
+    "FundID": "DODWX",
+    "MarketRisk": 0.73,
+    "CreditRisk": 1.92,
+    "OperationalRisk": 3.45,
+    "Date": "2019-03-06",
+    "RiskAssessment": "Woman there turn their."
+  },
+  {
+    "RiskID": "RD0032",
+    "FundID": "DODWX",
+    "MarketRisk": 1.88,
+    "CreditRisk": 3.75,
+    "OperationalRisk": 0.47,
+    "Date": "2017-10-31",
+    "RiskAssessment": "Generation top church wind off box."
+  },
+  {
+    "RiskID": "RD0033",
+    "FundID": "DODWX",
+    "MarketRisk": 7.89,
+    "CreditRisk": 0.82,
+    "OperationalRisk": 0.14,
+    "Date": "2019-09-12",
+    "RiskAssessment": "Hundred keep thank commercial article indeed brother."
+  },
+  {
+    "RiskID": "RD0034",
+    "FundID": "DODWX",
+    "MarketRisk": 3.07,
+    "CreditRisk": 0.51,
+    "OperationalRisk": 6.09,
+    "Date": "2020-03-27",
+    "RiskAssessment": "Minute lose hard."
+  },
+  {
+    "RiskID": "RD0035",
+    "FundID": "DODWX",
+    "MarketRisk": 3.89,
+    "CreditRisk": 8.32,
+    "OperationalRisk": 6.77,
+    "Date": "2010-08-10",
+    "RiskAssessment": "Structure almost common past home."
+  },
+  {
+    "RiskID": "RD0036",
+    "FundID": "DODWX",
+    "MarketRisk": 3.93,
+    "CreditRisk": 5.77,
+    "OperationalRisk": 8.43,
+    "Date": "2014-03-15",
+    "RiskAssessment": "Alone according open system garden national court nor."
+  },
+  {
+    "RiskID": "RD0037",
+    "FundID": "DODWX",
+    "MarketRisk": 0.83,
+    "CreditRisk": 9.13,
+    "OperationalRisk": 1.48,
+    "Date": "2017-03-30",
+    "RiskAssessment": "Manage sister true economy should mean notice home."
+  },
+  {
+    "RiskID": "RD0038",
+    "FundID": "DODWX",
+    "MarketRisk": 4.34,
+    "CreditRisk": 7.34,
+    "OperationalRisk": 7.97,
+    "Date": "2010-11-20",
+    "RiskAssessment": "I they everybody like tonight attorney."
+  },
+  {
+    "RiskID": "RD0039",
+    "FundID": "DODWX",
+    "MarketRisk": 4.81,
+    "CreditRisk": 3.22,
+    "OperationalRisk": 4.96,
+    "Date": "2018-12-20",
+    "RiskAssessment": "Take safe both executive right."
+  },
+  {
+    "RiskID": "RD0040",
+    "FundID": "DODWX",
+    "MarketRisk": 4.78,
+    "CreditRisk": 8.1,
+    "OperationalRisk": 9.67,
+    "Date": "2013-08-27",
+    "RiskAssessment": "Eat piece system trouble hotel a stock."
+  },
+  {
+    "RiskID": "RD0041",
+    "FundID": "DODWX",
+    "MarketRisk": 5.75,
+    "CreditRisk": 3.43,
+    "OperationalRisk": 4.1,
+    "Date": "2012-08-27",
+    "RiskAssessment": "Reflect understand occur together letter finally."
+  },
+  {
+    "RiskID": "RD0042",
+    "FundID": "DODWX",
+    "MarketRisk": 9.05,
+    "CreditRisk": 2.83,
+    "OperationalRisk": 0.54,
+    "Date": "2022-05-16",
+    "RiskAssessment": "Course should authority consumer trip describe."
+  },
+  {
+    "RiskID": "RD0043",
+    "FundID": "DODWX",
+    "MarketRisk": 5.13,
+    "CreditRisk": 7.62,
+    "OperationalRisk": 1.25,
+    "Date": "2008-11-19",
+    "RiskAssessment": "Else also write hear eye like."
+  },
+  {
+    "RiskID": "RD0044",
+    "FundID": "DODWX",
+    "MarketRisk": 8.45,
+    "CreditRisk": 0.39,
+    "OperationalRisk": 2.18,
+    "Date": "2019-11-20",
+    "RiskAssessment": "Woman something audience stuff child several bag."
+  },
+  {
+    "RiskID": "RD0045",
+    "FundID": "DODWX",
+    "MarketRisk": 2.17,
+    "CreditRisk": 2.76,
+    "OperationalRisk": 4.08,
+    "Date": "2018-02-08",
+    "RiskAssessment": "Threat campaign child push sell media."
+  },
+  {
+    "RiskID": "RD0046",
+    "FundID": "DODWX",
+    "MarketRisk": 7.34,
+    "CreditRisk": 2.82,
+    "OperationalRisk": 1.35,
+    "Date": "2009-11-02",
+    "RiskAssessment": "No court financial safe trade."
+  },
+  {
+    "RiskID": "RD0047",
+    "FundID": "DODWX",
+    "MarketRisk": 7.13,
+    "CreditRisk": 2.14,
+    "OperationalRisk": 7.09,
+    "Date": "2009-08-04",
+    "RiskAssessment": "Line reveal none day store."
+  },
+  {
+    "RiskID": "RD0048",
+    "FundID": "DODWX",
+    "MarketRisk": 5.52,
+    "CreditRisk": 7.46,
+    "OperationalRisk": 8.42,
+    "Date": "2011-01-26",
+    "RiskAssessment": "Learn power raise rate tend."
+  },
+  {
+    "RiskID": "RD0049",
+    "FundID": "DODWX",
+    "MarketRisk": 7.7,
+    "CreditRisk": 1.86,
+    "OperationalRisk": 9.76,
+    "Date": "2004-12-04",
+    "RiskAssessment": "Bad us do story sell debate."
+  },
+  {
+    "RiskID": "RD0050",
+    "FundID": "DODWX",
+    "MarketRisk": 2.58,
+    "CreditRisk": 0.45,
+    "OperationalRisk": 8.57,
+    "Date": "2012-09-06",
+    "RiskAssessment": "Commercial performance their see."
+  },
+  {
+    "RiskID": "RD0051",
+    "FundID": "DODWX",
+    "MarketRisk": 1.43,
+    "CreditRisk": 5.08,
+    "OperationalRisk": 5.1,
+    "Date": "2016-11-13",
+    "RiskAssessment": "Each far full box."
+  },
+  {
+    "RiskID": "RD0052",
+    "FundID": "DODWX",
+    "MarketRisk": 8.4,
+    "CreditRisk": 0.68,
+    "OperationalRisk": 3.99,
+    "Date": "2005-01-09",
+    "RiskAssessment": "Walk project world force investment."
+  },
+  {
+    "RiskID": "RD0053",
+    "FundID": "DODFX",
+    "MarketRisk": 4.72,
+    "CreditRisk": 4.52,
+    "OperationalRisk": 1.58,
+    "Date": "2012-02-15",
+    "RiskAssessment": "They member walk idea scene staff."
+  },
+  {
+    "RiskID": "RD0054",
+    "FundID": "DODFX",
+    "MarketRisk": 3.32,
+    "CreditRisk": 1.76,
+    "OperationalRisk": 6.69,
+    "Date": "2012-10-11",
+    "RiskAssessment": "Throw specific another mission."
+  },
+  {
+    "RiskID": "RD0055",
+    "FundID": "DODFX",
+    "MarketRisk": 0.03,
+    "CreditRisk": 9.43,
+    "OperationalRisk": 7.66,
+    "Date": "2014-10-29",
+    "RiskAssessment": "Item base over."
+  },
+  {
+    "RiskID": "RD0056",
+    "FundID": "DODFX",
+    "MarketRisk": 4.89,
+    "CreditRisk": 7.2,
+    "OperationalRisk": 8.74,
+    "Date": "2019-01-27",
+    "RiskAssessment": "Without bar side against matter position."
+  },
+  {
+    "RiskID": "RD0057",
+    "FundID": "DODFX",
+    "MarketRisk": 0.96,
+    "CreditRisk": 9.22,
+    "OperationalRisk": 6.49,
+    "Date": "2010-11-11",
+    "RiskAssessment": "Suggest quality page treatment."
+  },
+  {
+    "RiskID": "RD0058",
+    "FundID": "DODFX",
+    "MarketRisk": 2.62,
+    "CreditRisk": 1.96,
+    "OperationalRisk": 5.94,
+    "Date": "2016-08-08",
+    "RiskAssessment": "Imagine cold yet."
+  },
+  {
+    "RiskID": "RD0059",
+    "FundID": "DODFX",
+    "MarketRisk": 6.36,
+    "CreditRisk": 8.57,
+    "OperationalRisk": 8.17,
+    "Date": "2015-09-16",
+    "RiskAssessment": "Cell friend condition chance yard material line."
+  },
+  {
+    "RiskID": "RD0060",
+    "FundID": "DODFX",
+    "MarketRisk": 5.88,
+    "CreditRisk": 1.27,
+    "OperationalRisk": 5.67,
+    "Date": "2022-08-22",
+    "RiskAssessment": "Class everything whose put against since."
+  },
+  {
+    "RiskID": "RD0061",
+    "FundID": "DODFX",
+    "MarketRisk": 5.64,
+    "CreditRisk": 4.9,
+    "OperationalRisk": 2.1,
+    "Date": "2014-06-12",
+    "RiskAssessment": "Network pull piece production together."
+  },
+  {
+    "RiskID": "RD0062",
+    "FundID": "DODFX",
+    "MarketRisk": 7.21,
+    "CreditRisk": 3.01,
+    "OperationalRisk": 0.5,
+    "Date": "2010-11-17",
+    "RiskAssessment": "Project pick throw exist."
+  },
+  {
+    "RiskID": "RD0063",
+    "FundID": "DODFX",
+    "MarketRisk": 0.63,
+    "CreditRisk": 4.4,
+    "OperationalRisk": 3.13,
+    "Date": "2013-03-31",
+    "RiskAssessment": "Safe method traditional five occur."
+  },
+  {
+    "RiskID": "RD0064",
+    "FundID": "DODFX",
+    "MarketRisk": 5.91,
+    "CreditRisk": 6.06,
+    "OperationalRisk": 0.45,
+    "Date": "2022-07-06",
+    "RiskAssessment": "Drive young public single score."
+  },
+  {
+    "RiskID": "RD0065",
+    "FundID": "DODFX",
+    "MarketRisk": 1.08,
+    "CreditRisk": 6.6,
+    "OperationalRisk": 4.43,
+    "Date": "2011-01-14",
+    "RiskAssessment": "Voice its close believe newspaper."
+  },
+  {
+    "RiskID": "RD0066",
+    "FundID": "DODFX",
+    "MarketRisk": 5.43,
+    "CreditRisk": 6.69,
+    "OperationalRisk": 1.64,
+    "Date": "2013-11-22",
+    "RiskAssessment": "Responsibility significant wait policy contain bring."
+  },
+  {
+    "RiskID": "RD0067",
+    "FundID": "DODFX",
+    "MarketRisk": 4.34,
+    "CreditRisk": 5.72,
+    "OperationalRisk": 2.19,
+    "Date": "2017-08-16",
+    "RiskAssessment": "Beyond good billion toward speech area."
+  },
+  {
+    "RiskID": "RD0068",
+    "FundID": "DODFX",
+    "MarketRisk": 6.56,
+    "CreditRisk": 0.98,
+    "OperationalRisk": 4.38,
+    "Date": "2019-06-23",
+    "RiskAssessment": "Factor ever personal season."
+  },
+  {
+    "RiskID": "RD0069",
+    "FundID": "DODFX",
+    "MarketRisk": 7.9,
+    "CreditRisk": 2.19,
+    "OperationalRisk": 9.2,
+    "Date": "2018-07-06",
+    "RiskAssessment": "Song opportunity glass research person room consumer."
+  },
+  {
+    "RiskID": "RD0070",
+    "FundID": "DODFX",
+    "MarketRisk": 9.94,
+    "CreditRisk": 5.39,
+    "OperationalRisk": 4.73,
+    "Date": "2021-10-29",
+    "RiskAssessment": "Make successful own them list ok president."
+  },
+  {
+    "RiskID": "RD0071",
+    "FundID": "DODFX",
+    "MarketRisk": 1.15,
+    "CreditRisk": 6.03,
+    "OperationalRisk": 6.84,
+    "Date": "2021-07-11",
+    "RiskAssessment": "Really key professional."
+  },
+  {
+    "RiskID": "RD0072",
+    "FundID": "DODFX",
+    "MarketRisk": 8.28,
+    "CreditRisk": 7.11,
+    "OperationalRisk": 0.57,
+    "Date": "2018-09-16",
+    "RiskAssessment": "Contain my sport last should."
+  },
+  {
+    "RiskID": "RD0073",
+    "FundID": "DODFX",
+    "MarketRisk": 6.92,
+    "CreditRisk": 9.44,
+    "OperationalRisk": 8.09,
+    "Date": "2021-02-17",
+    "RiskAssessment": "Whom media population trial."
+  },
+  {
+    "RiskID": "RD0074",
+    "FundID": "DODFX",
+    "MarketRisk": 1.46,
+    "CreditRisk": 7.02,
+    "OperationalRisk": 7.2,
+    "Date": "2015-03-22",
+    "RiskAssessment": "To not turn improve political through."
+  },
+  {
+    "RiskID": "RD0075",
+    "FundID": "DODFX",
+    "MarketRisk": 1.65,
+    "CreditRisk": 0.24,
+    "OperationalRisk": 8.6,
+    "Date": "2017-05-15",
+    "RiskAssessment": "Collection first business plant in upon be."
+  },
+  {
+    "RiskID": "RD0076",
+    "FundID": "DODFX",
+    "MarketRisk": 9.87,
+    "CreditRisk": 7.66,
+    "OperationalRisk": 1.17,
+    "Date": "2011-01-17",
+    "RiskAssessment": "Poor mind challenge forward again."
+  },
+  {
+    "RiskID": "RD0077",
+    "FundID": "DODFX",
+    "MarketRisk": 5.79,
+    "CreditRisk": 4.9,
+    "OperationalRisk": 5.78,
+    "Date": "2013-06-08",
+    "RiskAssessment": "Community central road she."
+  },
+  {
+    "RiskID": "RD0078",
+    "FundID": "DODFX",
+    "MarketRisk": 6.34,
+    "CreditRisk": 3.39,
+    "OperationalRisk": 2.06,
+    "Date": "2015-10-06",
+    "RiskAssessment": "Rock seven growth oil cell employee building."
+  },
+  {
+    "RiskID": "RD0079",
+    "FundID": "DODFX",
+    "MarketRisk": 8.79,
+    "CreditRisk": 9.26,
+    "OperationalRisk": 3.46,
+    "Date": "2013-09-05",
+    "RiskAssessment": "Phone red indicate government key great result."
+  },
+  {
+    "RiskID": "RD0080",
+    "FundID": "DODFX",
+    "MarketRisk": 1.55,
+    "CreditRisk": 4.92,
+    "OperationalRisk": 10.0,
+    "Date": "2021-10-28",
+    "RiskAssessment": "Near surface significant condition home put."
+  },
+  {
+    "RiskID": "RD0081",
+    "FundID": "DODFX",
+    "MarketRisk": 6.96,
+    "CreditRisk": 1.21,
+    "OperationalRisk": 7.91,
+    "Date": "2018-07-14",
+    "RiskAssessment": "Other cup leader tell Mr health down education."
+  },
+  {
+    "RiskID": "RD0082",
+    "FundID": "DODFX",
+    "MarketRisk": 9.91,
+    "CreditRisk": 8.79,
+    "OperationalRisk": 7.84,
+    "Date": "2016-10-06",
+    "RiskAssessment": "Company set worry can back successful sit."
+  },
+  {
+    "RiskID": "RD0083",
+    "FundID": "DODFX",
+    "MarketRisk": 7.32,
+    "CreditRisk": 2.79,
+    "OperationalRisk": 5.49,
+    "Date": "2015-01-19",
+    "RiskAssessment": "School hold site."
+  },
+  {
+    "RiskID": "RD0084",
+    "FundID": "DODFX",
+    "MarketRisk": 2.12,
+    "CreditRisk": 5.46,
+    "OperationalRisk": 1.87,
+    "Date": "2015-01-20",
+    "RiskAssessment": "Again day large Congress training."
+  },
+  {
+    "RiskID": "RD0085",
+    "FundID": "DODFX",
+    "MarketRisk": 9.33,
+    "CreditRisk": 7.23,
+    "OperationalRisk": 0.7,
+    "Date": "2024-05-08",
+    "RiskAssessment": "Two line level market tonight decision."
+  },
+  {
+    "RiskID": "RD0086",
+    "FundID": "DODFX",
+    "MarketRisk": 9.68,
+    "CreditRisk": 8.16,
+    "OperationalRisk": 5.35,
+    "Date": "2019-05-06",
+    "RiskAssessment": "People clear city."
+  },
+  {
+    "RiskID": "RD0087",
+    "FundID": "DODFX",
+    "MarketRisk": 2.05,
+    "CreditRisk": 0.19,
+    "OperationalRisk": 3.33,
+    "Date": "2018-05-06",
+    "RiskAssessment": "Behavior floor mission fill far amount."
+  },
+  {
+    "RiskID": "RD0088",
+    "FundID": "DODFX",
+    "MarketRisk": 8.19,
+    "CreditRisk": 0.75,
+    "OperationalRisk": 8.47,
+    "Date": "2012-06-30",
+    "RiskAssessment": "Floor kind staff age same change hair."
+  },
+  {
+    "RiskID": "RD0089",
+    "FundID": "DODFX",
+    "MarketRisk": 4.34,
+    "CreditRisk": 6.89,
+    "OperationalRisk": 5.52,
+    "Date": "2010-07-20",
+    "RiskAssessment": "Simply whether benefit letter scientist fund employee."
+  },
+  {
+    "RiskID": "RD0090",
+    "FundID": "DODFX",
+    "MarketRisk": 9.98,
+    "CreditRisk": 6.9,
+    "OperationalRisk": 2.39,
+    "Date": "2021-11-07",
+    "RiskAssessment": "Hotel appear tough conference."
+  },
+  {
+    "RiskID": "RD0091",
+    "FundID": "DODFX",
+    "MarketRisk": 2.66,
+    "CreditRisk": 4.39,
+    "OperationalRisk": 5.94,
+    "Date": "2016-12-07",
+    "RiskAssessment": "Entire building wall my mouth."
+  },
+  {
+    "RiskID": "RD0092",
+    "FundID": "DODIX",
+    "MarketRisk": 2.37,
+    "CreditRisk": 8.16,
+    "OperationalRisk": 2.44,
+    "Date": "2011-12-29",
+    "RiskAssessment": "Seat true choose international."
+  },
+  {
+    "RiskID": "RD0093",
+    "FundID": "DODIX",
+    "MarketRisk": 2.98,
+    "CreditRisk": 5.82,
+    "OperationalRisk": 9.51,
+    "Date": "2011-11-14",
+    "RiskAssessment": "Especially voice plant lot character along direction individual."
+  },
+  {
+    "RiskID": "RD0094",
+    "FundID": "DODIX",
+    "MarketRisk": 9.31,
+    "CreditRisk": 2.29,
+    "OperationalRisk": 0.16,
+    "Date": "2023-06-14",
+    "RiskAssessment": "Last economic scene story under continue outside."
+  },
+  {
+    "RiskID": "RD0095",
+    "FundID": "DODIX",
+    "MarketRisk": 4.64,
+    "CreditRisk": 8.42,
+    "OperationalRisk": 0.12,
+    "Date": "2009-04-14",
+    "RiskAssessment": "Put especially a admit marriage center."
+  },
+  {
+    "RiskID": "RD0096",
+    "FundID": "DODIX",
+    "MarketRisk": 7.9,
+    "CreditRisk": 8.93,
+    "OperationalRisk": 8.14,
+    "Date": "2022-02-02",
+    "RiskAssessment": "Watch arm subject talk trial attorney move just."
+  },
+  {
+    "RiskID": "RD0097",
+    "FundID": "DODIX",
+    "MarketRisk": 4.99,
+    "CreditRisk": 9.28,
+    "OperationalRisk": 2.57,
+    "Date": "2015-10-11",
+    "RiskAssessment": "Cover audience bit fast."
+  },
+  {
+    "RiskID": "RD0098",
+    "FundID": "DODIX",
+    "MarketRisk": 8.3,
+    "CreditRisk": 9.71,
+    "OperationalRisk": 0.34,
+    "Date": "2010-04-24",
+    "RiskAssessment": "Play then hotel himself better accept open."
+  },
+  {
+    "RiskID": "RD0099",
+    "FundID": "DODIX",
+    "MarketRisk": 3.86,
+    "CreditRisk": 2.57,
+    "OperationalRisk": 5.36,
+    "Date": "2022-08-23",
+    "RiskAssessment": "No garden education be."
+  },
+  {
+    "RiskID": "RD0100",
+    "FundID": "DODIX",
+    "MarketRisk": 3.19,
+    "CreditRisk": 7.59,
+    "OperationalRisk": 4.86,
+    "Date": "2023-05-10",
+    "RiskAssessment": "Magazine form actually left usually too."
+  },
+  {
+    "RiskID": "RD0101",
+    "FundID": "DODIX",
+    "MarketRisk": 8.28,
+    "CreditRisk": 1.3,
+    "OperationalRisk": 4.64,
+    "Date": "2014-04-22",
+    "RiskAssessment": "National entire voice always customer next."
+  },
+  {
+    "RiskID": "RD0102",
+    "FundID": "DODIX",
+    "MarketRisk": 8.2,
+    "CreditRisk": 2.42,
+    "OperationalRisk": 5.49,
+    "Date": "2016-02-17",
+    "RiskAssessment": "Officer season attention money."
+  },
+  {
+    "RiskID": "RD0103",
+    "FundID": "DODIX",
+    "MarketRisk": 7.4,
+    "CreditRisk": 5.94,
+    "OperationalRisk": 1.13,
+    "Date": "2016-04-16",
+    "RiskAssessment": "Star politics bit wife popular structure public unit."
+  },
+  {
+    "RiskID": "RD0104",
+    "FundID": "DODIX",
+    "MarketRisk": 4.35,
+    "CreditRisk": 3.4,
+    "OperationalRisk": 6.38,
+    "Date": "2019-06-26",
+    "RiskAssessment": "Half choice coach say lot."
+  },
+  {
+    "RiskID": "RD0105",
+    "FundID": "DODIX",
+    "MarketRisk": 3.52,
+    "CreditRisk": 8.7,
+    "OperationalRisk": 2.7,
+    "Date": "2015-04-10",
+    "RiskAssessment": "Us want rock direction management."
+  },
+  {
+    "RiskID": "RD0106",
+    "FundID": "DODIX",
+    "MarketRisk": 8.03,
+    "CreditRisk": 9.97,
+    "OperationalRisk": 7.24,
+    "Date": "2021-11-29",
+    "RiskAssessment": "Read black anyone area listen."
+  },
+  {
+    "RiskID": "RD0107",
+    "FundID": "DODIX",
+    "MarketRisk": 7.05,
+    "CreditRisk": 3.42,
+    "OperationalRisk": 6.75,
+    "Date": "2024-04-20",
+    "RiskAssessment": "Down friend however experience act those station."
+  },
+  {
+    "RiskID": "RD0108",
+    "FundID": "DODIX",
+    "MarketRisk": 4.62,
+    "CreditRisk": 6.88,
+    "OperationalRisk": 7.58,
+    "Date": "2014-06-02",
+    "RiskAssessment": "Wonder record parent local."
+  },
+  {
+    "RiskID": "RD0109",
+    "FundID": "DODIX",
+    "MarketRisk": 2.26,
+    "CreditRisk": 0.0,
+    "OperationalRisk": 7.84,
+    "Date": "2012-09-11",
+    "RiskAssessment": "Trade mother positive find guy game them hot."
+  },
+  {
+    "RiskID": "RD0110",
+    "FundID": "DODIX",
+    "MarketRisk": 6.38,
+    "CreditRisk": 5.87,
+    "OperationalRisk": 3.92,
+    "Date": "2012-03-27",
+    "RiskAssessment": "Like system religious address increase."
+  },
+  {
+    "RiskID": "RD0111",
+    "FundID": "DODLX",
+    "MarketRisk": 6.95,
+    "CreditRisk": 3.65,
+    "OperationalRisk": 2.55,
+    "Date": "2018-03-30",
+    "RiskAssessment": "Change record plant ever people explain cause drug."
+  },
+  {
+    "RiskID": "RD0112",
+    "FundID": "DODLX",
+    "MarketRisk": 2.39,
+    "CreditRisk": 0.73,
+    "OperationalRisk": 9.71,
+    "Date": "2022-05-30",
+    "RiskAssessment": "He some data surface."
+  },
+  {
+    "RiskID": "RD0113",
+    "FundID": "DODLX",
+    "MarketRisk": 7.11,
+    "CreditRisk": 4.5,
+    "OperationalRisk": 2.61,
+    "Date": "2024-05-18",
+    "RiskAssessment": "National real change sign."
+  },
+  {
+    "RiskID": "RD0114",
+    "FundID": "DODLX",
+    "MarketRisk": 3.96,
+    "CreditRisk": 6.95,
+    "OperationalRisk": 3.08,
+    "Date": "2015-03-02",
+    "RiskAssessment": "Trip paper yet or respond miss challenge about."
+  },
+  {
+    "RiskID": "RD0115",
+    "FundID": "DODLX",
+    "MarketRisk": 0.65,
+    "CreditRisk": 2.48,
+    "OperationalRisk": 1.82,
+    "Date": "2014-12-18",
+    "RiskAssessment": "Here to affect hospital less speech."
+  },
+  {
+    "RiskID": "RD0116",
+    "FundID": "DODLX",
+    "MarketRisk": 2.72,
+    "CreditRisk": 8.14,
+    "OperationalRisk": 3.66,
+    "Date": "2019-10-13",
+    "RiskAssessment": "High pick among hit page all expert."
+  },
+  {
+    "RiskID": "RD0117",
+    "FundID": "DODLX",
+    "MarketRisk": 5.44,
+    "CreditRisk": 3.21,
+    "OperationalRisk": 7.06,
+    "Date": "2022-01-20",
+    "RiskAssessment": "Party my property radio situation."
+  },
+  {
+    "RiskID": "RD0118",
+    "FundID": "DODLX",
+    "MarketRisk": 2.76,
+    "CreditRisk": 0.59,
+    "OperationalRisk": 4.75,
+    "Date": "2018-12-25",
+    "RiskAssessment": "Able determine sport big beautiful risk."
+  },
+  {
+    "RiskID": "RD0119",
+    "FundID": "DODLX",
+    "MarketRisk": 3.21,
+    "CreditRisk": 3.6,
+    "OperationalRisk": 8.31,
+    "Date": "2020-09-15",
+    "RiskAssessment": "High parent first question buy rest form while."
+  },
+  {
+    "RiskID": "RD0120",
+    "FundID": "DODLX",
+    "MarketRisk": 9.27,
+    "CreditRisk": 5.32,
+    "OperationalRisk": 8.12,
+    "Date": "2022-08-12",
+    "RiskAssessment": "Leg loss live project compare."
+  },
+  {
+    "RiskID": "RD0121",
+    "FundID": "DODLX",
+    "MarketRisk": 8.36,
+    "CreditRisk": 3.55,
+    "OperationalRisk": 2.03,
+    "Date": "2023-05-18",
+    "RiskAssessment": "Citizen include wall pick step good."
+  },
+  {
+    "RiskID": "RD0122",
+    "FundID": "DODLX",
+    "MarketRisk": 9.2,
+    "CreditRisk": 9.11,
+    "OperationalRisk": 3.29,
+    "Date": "2016-01-28",
+    "RiskAssessment": "Air worker reason operation herself tough reduce entire."
+  },
+  {
+    "RiskID": "RD0123",
+    "FundID": "DODLX",
+    "MarketRisk": 1.75,
+    "CreditRisk": 5.69,
+    "OperationalRisk": 7.57,
+    "Date": "2016-03-19",
+    "RiskAssessment": "Month realize turn past against five machine entire."
+  },
+  {
+    "RiskID": "RD0124",
+    "FundID": "DODLX",
+    "MarketRisk": 3.51,
+    "CreditRisk": 4.91,
+    "OperationalRisk": 6.88,
+    "Date": "2016-07-25",
+    "RiskAssessment": "Project season tonight anyone wife form shake."
+  },
+  {
+    "RiskID": "RD0125",
+    "FundID": "DODLX",
+    "MarketRisk": 7.2,
+    "CreditRisk": 6.52,
+    "OperationalRisk": 2.9,
+    "Date": "2015-04-12",
+    "RiskAssessment": "Sense others expect father forget without born."
+  },
+  {
+    "RiskID": "RD0126",
+    "FundID": "DODLX",
+    "MarketRisk": 9.84,
+    "CreditRisk": 2.72,
+    "OperationalRisk": 0.31,
+    "Date": "2015-12-27",
+    "RiskAssessment": "Much final school increase chance year."
+  },
+  {
+    "RiskID": "RD0127",
+    "FundID": "DODLX",
+    "MarketRisk": 0.87,
+    "CreditRisk": 0.84,
+    "OperationalRisk": 5.6,
+    "Date": "2022-01-25",
+    "RiskAssessment": "Cause miss energy the far."
+  },
+  {
+    "RiskID": "RD0128",
+    "FundID": "DODLX",
+    "MarketRisk": 9.88,
+    "CreditRisk": 6.37,
+    "OperationalRisk": 6.95,
+    "Date": "2021-10-12",
+    "RiskAssessment": "Play theory push out end positive three business."
+  },
+  {
+    "RiskID": "RD0129",
+    "FundID": "DODLX",
+    "MarketRisk": 6.12,
+    "CreditRisk": 8.11,
+    "OperationalRisk": 4.6,
+    "Date": "2016-09-07",
+    "RiskAssessment": "Anyone member performance account ask manage year own."
+  },
+  {
+    "RiskID": "RD0130",
+    "FundID": "DODBX",
+    "MarketRisk": 9.49,
+    "CreditRisk": 9.18,
+    "OperationalRisk": 5.6,
+    "Date": "2019-03-09",
+    "RiskAssessment": "Street resource others financial yeah cause."
+  },
+  {
+    "RiskID": "RD0131",
+    "FundID": "DODBX",
+    "MarketRisk": 7.68,
+    "CreditRisk": 1.96,
+    "OperationalRisk": 9.22,
+    "Date": "2017-02-08",
+    "RiskAssessment": "Form that it across."
+  },
+  {
+    "RiskID": "RD0132",
+    "FundID": "DODBX",
+    "MarketRisk": 1.4,
+    "CreditRisk": 1.13,
+    "OperationalRisk": 3.23,
+    "Date": "2020-10-04",
+    "RiskAssessment": "General partner probably single gas."
+  },
+  {
+    "RiskID": "RD0133",
+    "FundID": "DODBX",
+    "MarketRisk": 6.12,
+    "CreditRisk": 8.93,
+    "OperationalRisk": 2.98,
+    "Date": "2013-04-20",
+    "RiskAssessment": "Parent understand truth cultural how quickly."
+  },
+  {
+    "RiskID": "RD0134",
+    "FundID": "DODBX",
+    "MarketRisk": 2.11,
+    "CreditRisk": 1.49,
+    "OperationalRisk": 6.65,
+    "Date": "2020-07-09",
+    "RiskAssessment": "Keep fine such role bed official exactly seven."
+  },
+  {
+    "RiskID": "RD0135",
+    "FundID": "DODBX",
+    "MarketRisk": 2.89,
+    "CreditRisk": 1.14,
+    "OperationalRisk": 9.03,
+    "Date": "2022-08-31",
+    "RiskAssessment": "Box level letter answer plant second."
+  },
+  {
+    "RiskID": "RD0136",
+    "FundID": "DODBX",
+    "MarketRisk": 9.1,
+    "CreditRisk": 9.46,
+    "OperationalRisk": 3.6,
+    "Date": "2016-03-25",
+    "RiskAssessment": "Drop generation science."
+  },
+  {
+    "RiskID": "RD0137",
+    "FundID": "DODBX",
+    "MarketRisk": 3.61,
+    "CreditRisk": 5.9,
+    "OperationalRisk": 2.76,
+    "Date": "2024-04-27",
+    "RiskAssessment": "Individual organization theory happy safe."
+  },
+  {
+    "RiskID": "RD0138",
+    "FundID": "DODBX",
+    "MarketRisk": 5.48,
+    "CreditRisk": 6.6,
+    "OperationalRisk": 0.09,
+    "Date": "2015-10-02",
+    "RiskAssessment": "Begin person art family reflect."
+  },
+  {
+    "RiskID": "RD0139",
+    "FundID": "DODBX",
+    "MarketRisk": 6.94,
+    "CreditRisk": 4.42,
+    "OperationalRisk": 0.96,
+    "Date": "2013-01-30",
+    "RiskAssessment": "Soldier trouble design number rest fire office run."
+  },
+  {
+    "RiskID": "RD0140",
+    "FundID": "DODBX",
+    "MarketRisk": 3.69,
+    "CreditRisk": 9.39,
+    "OperationalRisk": 3.74,
+    "Date": "2016-02-25",
+    "RiskAssessment": "Heart factor question decision."
+  },
+  {
+    "RiskID": "RD0141",
+    "FundID": "DODBX",
+    "MarketRisk": 7.56,
+    "CreditRisk": 1.03,
+    "OperationalRisk": 9.49,
+    "Date": "2024-02-06",
+    "RiskAssessment": "Moment maybe himself successful answer."
+  },
+  {
+    "RiskID": "RD0142",
+    "FundID": "DODBX",
+    "MarketRisk": 0.97,
+    "CreditRisk": 3.79,
+    "OperationalRisk": 2.09,
+    "Date": "2023-07-06",
+    "RiskAssessment": "Television school condition send join song word."
+  },
+  {
+    "RiskID": "RD0143",
+    "FundID": "DODBX",
+    "MarketRisk": 9.03,
+    "CreditRisk": 8.77,
+    "OperationalRisk": 0.25,
+    "Date": "2014-02-10",
+    "RiskAssessment": "Child tax own total four."
+  },
+  {
+    "RiskID": "RD0144",
+    "FundID": "DODBX",
+    "MarketRisk": 1.23,
+    "CreditRisk": 9.33,
+    "OperationalRisk": 7.22,
+    "Date": "2014-08-17",
+    "RiskAssessment": "Part even general town say."
+  },
+  {
+    "RiskID": "RD0145",
+    "FundID": "DODBX",
+    "MarketRisk": 4.39,
+    "CreditRisk": 0.12,
+    "OperationalRisk": 2.47,
+    "Date": "2024-05-09",
+    "RiskAssessment": "Production name majority seat group window senior."
+  },
+  {
+    "RiskID": "RD0146",
+    "FundID": "DODBX",
+    "MarketRisk": 0.85,
+    "CreditRisk": 2.91,
+    "OperationalRisk": 7.97,
+    "Date": "2012-06-26",
+    "RiskAssessment": "Beyond capital billion either."
+  },
+  {
+    "RiskID": "RD0147",
+    "FundID": "DODBX",
+    "MarketRisk": 2.13,
+    "CreditRisk": 5.21,
+    "OperationalRisk": 8.22,
+    "Date": "2016-04-23",
+    "RiskAssessment": "Positive charge no produce establish."
+  },
+  {
+    "RiskID": "RD0148",
+    "FundID": "DODBX",
+    "MarketRisk": 3.25,
+    "CreditRisk": 0.27,
+    "OperationalRisk": 4.9,
+    "Date": "2019-08-03",
+    "RiskAssessment": "Education camera be."
+  },
+  {
+    "RiskID": "RD0149",
+    "FundID": "DODBX",
+    "MarketRisk": 2.82,
+    "CreditRisk": 6.85,
+    "OperationalRisk": 0.87,
+    "Date": "2016-06-16",
+    "RiskAssessment": "Student town law."
+  },
+  {
+    "RiskID": "RD0150",
+    "FundID": "DODBX",
+    "MarketRisk": 2.3,
+    "CreditRisk": 2.74,
+    "OperationalRisk": 2.71,
+    "Date": "2015-02-14",
+    "RiskAssessment": "Simple top safe network."
+  },
+  {
+    "RiskID": "RD0151",
+    "FundID": "DODBX",
+    "MarketRisk": 3.01,
+    "CreditRisk": 6.98,
+    "OperationalRisk": 7.25,
+    "Date": "2012-11-18",
+    "RiskAssessment": "Look throw laugh relate year instead matter information."
+  },
+  {
+    "RiskID": "RD0152",
+    "FundID": "DODBX",
+    "MarketRisk": 6.89,
+    "CreditRisk": 0.35,
+    "OperationalRisk": 3.64,
+    "Date": "2017-12-19",
+    "RiskAssessment": "Treat day world professional."
+  },
+  {
+    "RiskID": "RD0153",
+    "FundID": "DODBX",
+    "MarketRisk": 1.86,
+    "CreditRisk": 3.26,
+    "OperationalRisk": 4.0,
+    "Date": "2023-09-12",
+    "RiskAssessment": "Employee increase affect spring choose education but."
+  },
+  {
+    "RiskID": "RD0154",
+    "FundID": "DODBX",
+    "MarketRisk": 0.64,
+    "CreditRisk": 5.07,
+    "OperationalRisk": 0.13,
+    "Date": "2019-12-21",
+    "RiskAssessment": "Chance meeting maintain significant."
+  },
+  {
+    "RiskID": "RD0155",
+    "FundID": "DODBX",
+    "MarketRisk": 7.59,
+    "CreditRisk": 1.92,
+    "OperationalRisk": 6.95,
+    "Date": "2017-08-16",
+    "RiskAssessment": "More degree power hard middle not your."
+  },
+  {
+    "RiskID": "RD0156",
+    "FundID": "DODBX",
+    "MarketRisk": 6.15,
+    "CreditRisk": 4.71,
+    "OperationalRisk": 6.27,
+    "Date": "2012-10-30",
+    "RiskAssessment": "Party I floor."
+  },
+  {
+    "RiskID": "RD0157",
+    "FundID": "DODBX",
+    "MarketRisk": 8.83,
+    "CreditRisk": 3.58,
+    "OperationalRisk": 4.1,
+    "Date": "2015-05-23",
+    "RiskAssessment": "Experience contain admit learn."
+  },
+  {
+    "RiskID": "RD0158",
+    "FundID": "DODBX",
+    "MarketRisk": 3.61,
+    "CreditRisk": 2.57,
+    "OperationalRisk": 8.81,
+    "Date": "2014-04-13",
+    "RiskAssessment": "Poor project part nor apply body."
+  },
+  {
+    "RiskID": "RD0159",
+    "FundID": "DODBX",
+    "MarketRisk": 2.01,
+    "CreditRisk": 3.42,
+    "OperationalRisk": 4.94,
+    "Date": "2021-10-16",
+    "RiskAssessment": "Couple low street."
+  },
+  {
+    "RiskID": "RD0160",
+    "FundID": "DODBX",
+    "MarketRisk": 9.77,
+    "CreditRisk": 6.51,
+    "OperationalRisk": 9.8,
+    "Date": "2012-04-18",
+    "RiskAssessment": "Finally fight concern range TV."
+  },
+  {
+    "RiskID": "RD0161",
+    "FundID": "DODBX",
+    "MarketRisk": 4.86,
+    "CreditRisk": 5.58,
+    "OperationalRisk": 0.42,
+    "Date": "2022-03-09",
+    "RiskAssessment": "Man threat include it."
+  }
+]

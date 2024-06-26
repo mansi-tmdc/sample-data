@@ -1,0 +1,1127 @@
+[
+  {
+    "AccountID": "AC001",
+    "InvestorID": "IN001",
+    "AccountType": "corporate",
+    "Balance": 119403.29,
+    "OpeningDate": "2018-01-07",
+    "Status": "inactive",
+    "AdditionalInfo": "Price personal trip often hot. Remain expert hundred someone remember protect. Two stuff house commercial."
+  },
+  {
+    "AccountID": "AC002",
+    "InvestorID": "IN002",
+    "AccountType": "corporate",
+    "Balance": 292885.47,
+    "OpeningDate": "2015-04-07",
+    "Status": "active",
+    "AdditionalInfo": "Loss claim five. Wonder talk affect single success foreign material choose. Themselves sense region person whether produce."
+  },
+  {
+    "AccountID": "AC003",
+    "InvestorID": "IN002",
+    "AccountType": "retirement",
+    "Balance": 887011.72,
+    "OpeningDate": "2018-08-23",
+    "Status": "inactive",
+    "AdditionalInfo": "Low large strategy sister strong. Record book probably to between fight."
+  },
+  {
+    "AccountID": "AC004",
+    "InvestorID": "IN003",
+    "AccountType": "individual",
+    "Balance": 316400.88,
+    "OpeningDate": "2019-02-15",
+    "Status": "active",
+    "AdditionalInfo": "Activity third activity range on on now. Medical never his strategy. Low method speak analysis ever husband. Final success successful toward good eye woman."
+  },
+  {
+    "AccountID": "AC005",
+    "InvestorID": "IN003",
+    "AccountType": "joint",
+    "Balance": 165354.15,
+    "OpeningDate": "2021-07-10",
+    "Status": "closed",
+    "AdditionalInfo": "Provide drop question fish what."
+  },
+  {
+    "AccountID": "AC006",
+    "InvestorID": "IN003",
+    "AccountType": "joint",
+    "Balance": 121070.89,
+    "OpeningDate": "2022-01-07",
+    "Status": "active",
+    "AdditionalInfo": "Yeah check allow resource various sea."
+  },
+  {
+    "AccountID": "AC007",
+    "InvestorID": "IN003",
+    "AccountType": "joint",
+    "Balance": 474400.33,
+    "OpeningDate": "2021-10-01",
+    "Status": "inactive",
+    "AdditionalInfo": "At it common field sport area. Friend but magazine north fly everything would her."
+  },
+  {
+    "AccountID": "AC008",
+    "InvestorID": "IN004",
+    "AccountType": "trust",
+    "Balance": 207035.09,
+    "OpeningDate": "2022-01-21",
+    "Status": "inactive",
+    "AdditionalInfo": "Instead customer drug coach film once head laugh. Single poor now. Third region fire term movement believe."
+  },
+  {
+    "AccountID": "AC009",
+    "InvestorID": "IN004",
+    "AccountType": "individual",
+    "Balance": 312480.73,
+    "OpeningDate": "2018-09-27",
+    "Status": "closed",
+    "AdditionalInfo": "Smile surface four determine ability mind. Hand north information. Officer less heart see customer."
+  },
+  {
+    "AccountID": "AC010",
+    "InvestorID": "IN004",
+    "AccountType": "individual",
+    "Balance": 189095.36,
+    "OpeningDate": "2023-08-06",
+    "Status": "inactive",
+    "AdditionalInfo": "Human dream office almost fight. Day among sense. Often project compare structure school."
+  },
+  {
+    "AccountID": "AC011",
+    "InvestorID": "IN004",
+    "AccountType": "individual",
+    "Balance": 867982.23,
+    "OpeningDate": "2020-02-10",
+    "Status": "closed",
+    "AdditionalInfo": "Foot part simply hold growth decide let. Decade gas media water. Right life gun purpose speak."
+  },
+  {
+    "AccountID": "AC012",
+    "InvestorID": "IN005",
+    "AccountType": "corporate",
+    "Balance": 941727.68,
+    "OpeningDate": "2018-04-08",
+    "Status": "active",
+    "AdditionalInfo": "Finally above food attorney. Sound woman choose."
+  },
+  {
+    "AccountID": "AC013",
+    "InvestorID": "IN006",
+    "AccountType": "joint",
+    "Balance": 778223.02,
+    "OpeningDate": "2016-09-20",
+    "Status": "inactive",
+    "AdditionalInfo": "Everything trade mean beat number. Interest us itself model be truth. Training idea challenge police."
+  },
+  {
+    "AccountID": "AC014",
+    "InvestorID": "IN006",
+    "AccountType": "retirement",
+    "Balance": 460860.66,
+    "OpeningDate": "2018-08-03",
+    "Status": "closed",
+    "AdditionalInfo": "Nation run policy house scientist yard account choice. Class place interesting area heart kid. Summer worker significant politics until."
+  },
+  {
+    "AccountID": "AC015",
+    "InvestorID": "IN006",
+    "AccountType": "trust",
+    "Balance": 697977.69,
+    "OpeningDate": "2018-05-14",
+    "Status": "active",
+    "AdditionalInfo": "Race choose investment talk down. Still music bill fly specific everybody."
+  },
+  {
+    "AccountID": "AC016",
+    "InvestorID": "IN007",
+    "AccountType": "joint",
+    "Balance": 413590.86,
+    "OpeningDate": "2018-08-01",
+    "Status": "active",
+    "AdditionalInfo": "Own development state meeting young. Include believe tend him."
+  },
+  {
+    "AccountID": "AC017",
+    "InvestorID": "IN007",
+    "AccountType": "joint",
+    "Balance": 675263.58,
+    "OpeningDate": "2018-03-24",
+    "Status": "active",
+    "AdditionalInfo": "Rise industry agent realize cost. Throughout key physical either able wish. Laugh candidate current look people."
+  },
+  {
+    "AccountID": "AC018",
+    "InvestorID": "IN007",
+    "AccountType": "joint",
+    "Balance": 189851.39,
+    "OpeningDate": "2020-12-14",
+    "Status": "inactive",
+    "AdditionalInfo": "Enjoy fly off mother TV. Claim main rather usually. Skill and daughter outside outside."
+  },
+  {
+    "AccountID": "AC019",
+    "InvestorID": "IN008",
+    "AccountType": "retirement",
+    "Balance": 478224.01,
+    "OpeningDate": "2022-10-03",
+    "Status": "active",
+    "AdditionalInfo": "Town road season garden detail make. Service marriage family religious. Democrat ten avoid guy rock question poor lose."
+  },
+  {
+    "AccountID": "AC020",
+    "InvestorID": "IN009",
+    "AccountType": "trust",
+    "Balance": 882522.01,
+    "OpeningDate": "2019-05-31",
+    "Status": "closed",
+    "AdditionalInfo": "Attention skin speech success available eye wrong head. Side reality when let hotel vote pull. Cut throw gun per color chance view."
+  },
+  {
+    "AccountID": "AC021",
+    "InvestorID": "IN010",
+    "AccountType": "individual",
+    "Balance": 864770.75,
+    "OpeningDate": "2017-08-17",
+    "Status": "active",
+    "AdditionalInfo": "Pretty manager dark tree. Tax order me yard their couple. Catch third exist name actually floor strategy. Her benefit imagine social ability executive discussion."
+  },
+  {
+    "AccountID": "AC022",
+    "InvestorID": "IN010",
+    "AccountType": "trust",
+    "Balance": 583351.3,
+    "OpeningDate": "2019-10-19",
+    "Status": "closed",
+    "AdditionalInfo": "Far sea tell player respond work rock. Art safe create six. Until cover born party play fill."
+  },
+  {
+    "AccountID": "AC023",
+    "InvestorID": "IN011",
+    "AccountType": "joint",
+    "Balance": 294845.66,
+    "OpeningDate": "2019-08-14",
+    "Status": "closed",
+    "AdditionalInfo": "Baby source one officer level performance. Check get hard least. Ball fall white skin development."
+  },
+  {
+    "AccountID": "AC024",
+    "InvestorID": "IN011",
+    "AccountType": "joint",
+    "Balance": 30911.82,
+    "OpeningDate": "2018-02-02",
+    "Status": "active",
+    "AdditionalInfo": "Big skill whose role property. Movement fall brother reach control tough road simply. Too must management black bank."
+  },
+  {
+    "AccountID": "AC025",
+    "InvestorID": "IN011",
+    "AccountType": "joint",
+    "Balance": 510028.21,
+    "OpeningDate": "2017-09-27",
+    "Status": "closed",
+    "AdditionalInfo": "Wide consider leg act black. Exactly hundred relationship challenge forget necessary."
+  },
+  {
+    "AccountID": "AC026",
+    "InvestorID": "IN011",
+    "AccountType": "retirement",
+    "Balance": 56223.03,
+    "OpeningDate": "2015-02-20",
+    "Status": "inactive",
+    "AdditionalInfo": "Decade phone central. Environment over increase rock certainly economic. More window establish force he without."
+  },
+  {
+    "AccountID": "AC027",
+    "InvestorID": "IN012",
+    "AccountType": "corporate",
+    "Balance": 837804.26,
+    "OpeningDate": "2022-05-31",
+    "Status": "active",
+    "AdditionalInfo": "Light Mr activity specific fine go. Rise up involve although."
+  },
+  {
+    "AccountID": "AC028",
+    "InvestorID": "IN012",
+    "AccountType": "trust",
+    "Balance": 135931.12,
+    "OpeningDate": "2021-03-29",
+    "Status": "active",
+    "AdditionalInfo": "Space mother different today ground democratic long see. Person likely commercial attack foreign."
+  },
+  {
+    "AccountID": "AC029",
+    "InvestorID": "IN012",
+    "AccountType": "retirement",
+    "Balance": 831616.74,
+    "OpeningDate": "2024-03-13",
+    "Status": "closed",
+    "AdditionalInfo": "Theory chance lot unit. Ready financial accept interview cover until old nation. Subject travel training where."
+  },
+  {
+    "AccountID": "AC030",
+    "InvestorID": "IN012",
+    "AccountType": "retirement",
+    "Balance": 375365.28,
+    "OpeningDate": "2022-03-15",
+    "Status": "active",
+    "AdditionalInfo": "Many south pressure rest notice live. Foot dark of."
+  },
+  {
+    "AccountID": "AC031",
+    "InvestorID": "IN013",
+    "AccountType": "individual",
+    "Balance": 65650.72,
+    "OpeningDate": "2021-08-14",
+    "Status": "active",
+    "AdditionalInfo": "Often system tell time door. Decide morning try night yard. Police anyone explain."
+  },
+  {
+    "AccountID": "AC032",
+    "InvestorID": "IN013",
+    "AccountType": "joint",
+    "Balance": 905619.78,
+    "OpeningDate": "2016-07-23",
+    "Status": "closed",
+    "AdditionalInfo": "Alone push nothing. College movement such summer cost form."
+  },
+  {
+    "AccountID": "AC033",
+    "InvestorID": "IN013",
+    "AccountType": "individual",
+    "Balance": 595191.85,
+    "OpeningDate": "2021-07-27",
+    "Status": "active",
+    "AdditionalInfo": "Analysis enjoy town. Song message concern road board relationship. Place alone matter toward blue he. Color us special single she whole."
+  },
+  {
+    "AccountID": "AC034",
+    "InvestorID": "IN014",
+    "AccountType": "joint",
+    "Balance": 510256.98,
+    "OpeningDate": "2017-06-17",
+    "Status": "active",
+    "AdditionalInfo": "War despite talk red nice million provide. Discuss reflect politics example tell need we."
+  },
+  {
+    "AccountID": "AC035",
+    "InvestorID": "IN014",
+    "AccountType": "individual",
+    "Balance": 931469.1,
+    "OpeningDate": "2019-03-31",
+    "Status": "inactive",
+    "AdditionalInfo": "Worry beyond individual international computer goal. Clearly leave positive season expert yeah despite."
+  },
+  {
+    "AccountID": "AC036",
+    "InvestorID": "IN014",
+    "AccountType": "joint",
+    "Balance": 276833.76,
+    "OpeningDate": "2023-04-26",
+    "Status": "closed",
+    "AdditionalInfo": "Standard eat forward claim. Help special prevent organization window media capital. Interest give hit peace partner central idea worker."
+  },
+  {
+    "AccountID": "AC037",
+    "InvestorID": "IN015",
+    "AccountType": "corporate",
+    "Balance": 129499.61,
+    "OpeningDate": "2021-02-01",
+    "Status": "inactive",
+    "AdditionalInfo": "Nation meet forget dinner local guy drop. Human job also standard miss between. May have lose bit minute voice."
+  },
+  {
+    "AccountID": "AC038",
+    "InvestorID": "IN016",
+    "AccountType": "joint",
+    "Balance": 214369.45,
+    "OpeningDate": "2022-06-13",
+    "Status": "closed",
+    "AdditionalInfo": "Into way military player change of. Believe modern measure theory reality. Way indicate too building."
+  },
+  {
+    "AccountID": "AC039",
+    "InvestorID": "IN016",
+    "AccountType": "corporate",
+    "Balance": 334528.82,
+    "OpeningDate": "2017-09-21",
+    "Status": "closed",
+    "AdditionalInfo": "Beautiful impact husband professor. Support apply standard study speak power away full."
+  },
+  {
+    "AccountID": "AC040",
+    "InvestorID": "IN017",
+    "AccountType": "individual",
+    "Balance": 544432.4,
+    "OpeningDate": "2018-06-15",
+    "Status": "closed",
+    "AdditionalInfo": "Former its help others. Officer analysis goal year process easy."
+  },
+  {
+    "AccountID": "AC041",
+    "InvestorID": "IN018",
+    "AccountType": "corporate",
+    "Balance": 338877.98,
+    "OpeningDate": "2022-08-17",
+    "Status": "closed",
+    "AdditionalInfo": "Writer letter over. Federal star design. Rise left head provide eight staff today discussion."
+  },
+  {
+    "AccountID": "AC042",
+    "InvestorID": "IN018",
+    "AccountType": "joint",
+    "Balance": 409361.23,
+    "OpeningDate": "2022-01-28",
+    "Status": "active",
+    "AdditionalInfo": "Until within purpose debate give walk day. Back responsibility option study young. See indeed method report group sister after star."
+  },
+  {
+    "AccountID": "AC043",
+    "InvestorID": "IN018",
+    "AccountType": "corporate",
+    "Balance": 966000.7,
+    "OpeningDate": "2020-05-06",
+    "Status": "inactive",
+    "AdditionalInfo": "Such meet make born claim recent yard. Season suddenly it mean argue. Involve stuff training truth unit level. Hit kind than close support."
+  },
+  {
+    "AccountID": "AC044",
+    "InvestorID": "IN018",
+    "AccountType": "joint",
+    "Balance": 405300.39,
+    "OpeningDate": "2023-03-31",
+    "Status": "active",
+    "AdditionalInfo": "Million plant father usually this wife office place. Sing form front continue writer. Card Mr none fine reason."
+  },
+  {
+    "AccountID": "AC045",
+    "InvestorID": "IN019",
+    "AccountType": "corporate",
+    "Balance": 321611.12,
+    "OpeningDate": "2017-04-14",
+    "Status": "inactive",
+    "AdditionalInfo": "Financial history growth quality do reach. Form eat positive character. Reach by condition book."
+  },
+  {
+    "AccountID": "AC046",
+    "InvestorID": "IN020",
+    "AccountType": "corporate",
+    "Balance": 97467.36,
+    "OpeningDate": "2018-05-09",
+    "Status": "inactive",
+    "AdditionalInfo": "Customer away sense cost improve approach thought. Behavior single card government game off."
+  },
+  {
+    "AccountID": "AC047",
+    "InvestorID": "IN020",
+    "AccountType": "retirement",
+    "Balance": 411877.02,
+    "OpeningDate": "2018-06-13",
+    "Status": "inactive",
+    "AdditionalInfo": "Doctor hour bring. Write change contain international not traditional."
+  },
+  {
+    "AccountID": "AC048",
+    "InvestorID": "IN020",
+    "AccountType": "joint",
+    "Balance": 147481.52,
+    "OpeningDate": "2019-04-20",
+    "Status": "active",
+    "AdditionalInfo": "Top common early process. Discover practice second nature future. World trade couple test knowledge create."
+  },
+  {
+    "AccountID": "AC049",
+    "InvestorID": "IN021",
+    "AccountType": "retirement",
+    "Balance": 33034.5,
+    "OpeningDate": "2015-12-19",
+    "Status": "inactive",
+    "AdditionalInfo": "His media his somebody defense. Science girl form seem structure successful something and."
+  },
+  {
+    "AccountID": "AC050",
+    "InvestorID": "IN022",
+    "AccountType": "individual",
+    "Balance": 205855.2,
+    "OpeningDate": "2016-04-07",
+    "Status": "inactive",
+    "AdditionalInfo": "Its although save laugh. Kid voice subject skin themselves road. Beat seek four total room pass."
+  },
+  {
+    "AccountID": "AC051",
+    "InvestorID": "IN022",
+    "AccountType": "retirement",
+    "Balance": 131693.32,
+    "OpeningDate": "2018-07-29",
+    "Status": "closed",
+    "AdditionalInfo": "Need just the wish civil."
+  },
+  {
+    "AccountID": "AC052",
+    "InvestorID": "IN022",
+    "AccountType": "retirement",
+    "Balance": 155665.97,
+    "OpeningDate": "2021-08-13",
+    "Status": "closed",
+    "AdditionalInfo": "Add individual plan contain song result. Determine able there accept young. Resource marriage see then during."
+  },
+  {
+    "AccountID": "AC053",
+    "InvestorID": "IN022",
+    "AccountType": "individual",
+    "Balance": 870514.07,
+    "OpeningDate": "2019-11-13",
+    "Status": "active",
+    "AdditionalInfo": "Best money however decide truth. Bad instead political wide camera either I single. Institution seem join image."
+  },
+  {
+    "AccountID": "AC054",
+    "InvestorID": "IN023",
+    "AccountType": "individual",
+    "Balance": 822292.01,
+    "OpeningDate": "2017-01-05",
+    "Status": "inactive",
+    "AdditionalInfo": "Speak out fast art agency similar nice. Total point first type detail."
+  },
+  {
+    "AccountID": "AC055",
+    "InvestorID": "IN023",
+    "AccountType": "corporate",
+    "Balance": 163439.73,
+    "OpeningDate": "2017-08-17",
+    "Status": "inactive",
+    "AdditionalInfo": "Pretty real air describe. Almost position speech produce draw."
+  },
+  {
+    "AccountID": "AC056",
+    "InvestorID": "IN023",
+    "AccountType": "individual",
+    "Balance": 546685.53,
+    "OpeningDate": "2017-11-29",
+    "Status": "inactive",
+    "AdditionalInfo": "Clearly best history campaign foot design myself. Hard result ask for road seat yard but. Its fine result Democrat."
+  },
+  {
+    "AccountID": "AC057",
+    "InvestorID": "IN023",
+    "AccountType": "individual",
+    "Balance": 882345.07,
+    "OpeningDate": "2015-08-06",
+    "Status": "inactive",
+    "AdditionalInfo": "Game difference hear power play behind practice less. Concern ask outside maintain from country."
+  },
+  {
+    "AccountID": "AC058",
+    "InvestorID": "IN024",
+    "AccountType": "corporate",
+    "Balance": 874605.68,
+    "OpeningDate": "2016-12-09",
+    "Status": "active",
+    "AdditionalInfo": "Common sister amount off environment car. Determine us skill instead line source sort already. Skill me recognize note much thought red thought."
+  },
+  {
+    "AccountID": "AC059",
+    "InvestorID": "IN024",
+    "AccountType": "trust",
+    "Balance": 14492.55,
+    "OpeningDate": "2021-09-07",
+    "Status": "closed",
+    "AdditionalInfo": "Affect finally admit feeling rise floor. Party teach their recognize interesting serious class. Understand few do new necessary leg."
+  },
+  {
+    "AccountID": "AC060",
+    "InvestorID": "IN024",
+    "AccountType": "joint",
+    "Balance": 822798.14,
+    "OpeningDate": "2016-11-07",
+    "Status": "active",
+    "AdditionalInfo": "Deal central economy strong southern agree choice."
+  },
+  {
+    "AccountID": "AC061",
+    "InvestorID": "IN025",
+    "AccountType": "retirement",
+    "Balance": 324590.78,
+    "OpeningDate": "2018-10-02",
+    "Status": "active",
+    "AdditionalInfo": "Care artist degree dark plan small. Most board evidence right window. High maybe report building total wife sometimes."
+  },
+  {
+    "AccountID": "AC062",
+    "InvestorID": "IN025",
+    "AccountType": "corporate",
+    "Balance": 914102.92,
+    "OpeningDate": "2015-05-22",
+    "Status": "active",
+    "AdditionalInfo": "Actually computer idea word phone indeed. Region world provide hope rock social weight."
+  },
+  {
+    "AccountID": "AC063",
+    "InvestorID": "IN026",
+    "AccountType": "individual",
+    "Balance": 734488.63,
+    "OpeningDate": "2017-07-13",
+    "Status": "active",
+    "AdditionalInfo": "Item American significant environmental speech cover form plant. It alone design behavior generation. Generation office because name hotel chair realize."
+  },
+  {
+    "AccountID": "AC064",
+    "InvestorID": "IN027",
+    "AccountType": "joint",
+    "Balance": 975011.36,
+    "OpeningDate": "2023-06-23",
+    "Status": "active",
+    "AdditionalInfo": "Stuff son military then."
+  },
+  {
+    "AccountID": "AC065",
+    "InvestorID": "IN027",
+    "AccountType": "individual",
+    "Balance": 310676.38,
+    "OpeningDate": "2015-01-10",
+    "Status": "active",
+    "AdditionalInfo": "Nearly space camera scientist argue compare election. Though suggest take receive manager painting blue. Phone shake do meeting trouble pattern as."
+  },
+  {
+    "AccountID": "AC066",
+    "InvestorID": "IN027",
+    "AccountType": "retirement",
+    "Balance": 315044.16,
+    "OpeningDate": "2019-08-14",
+    "Status": "active",
+    "AdditionalInfo": "Do sea performance recognize hundred true. Child religious practice. Program recognize scene message support will."
+  },
+  {
+    "AccountID": "AC067",
+    "InvestorID": "IN028",
+    "AccountType": "trust",
+    "Balance": 779991.82,
+    "OpeningDate": "2016-12-29",
+    "Status": "inactive",
+    "AdditionalInfo": "Big Congress order situation exactly local. On new instead yeah weight structure. Page sort where card she toward."
+  },
+  {
+    "AccountID": "AC068",
+    "InvestorID": "IN028",
+    "AccountType": "joint",
+    "Balance": 591979.64,
+    "OpeningDate": "2018-02-22",
+    "Status": "closed",
+    "AdditionalInfo": "Require evening range newspaper. About debate knowledge range any. Three political year board."
+  },
+  {
+    "AccountID": "AC069",
+    "InvestorID": "IN029",
+    "AccountType": "individual",
+    "Balance": 994541.29,
+    "OpeningDate": "2018-07-22",
+    "Status": "active",
+    "AdditionalInfo": "Image budget chance five. Point play party number only during out."
+  },
+  {
+    "AccountID": "AC070",
+    "InvestorID": "IN029",
+    "AccountType": "corporate",
+    "Balance": 121367.84,
+    "OpeningDate": "2019-02-05",
+    "Status": "closed",
+    "AdditionalInfo": "Different model game inside like. Represent participant raise six."
+  },
+  {
+    "AccountID": "AC071",
+    "InvestorID": "IN029",
+    "AccountType": "retirement",
+    "Balance": 101499.05,
+    "OpeningDate": "2018-02-09",
+    "Status": "inactive",
+    "AdditionalInfo": "Help near professor arm improve. Significant off science coach."
+  },
+  {
+    "AccountID": "AC072",
+    "InvestorID": "IN029",
+    "AccountType": "trust",
+    "Balance": 505815.46,
+    "OpeningDate": "2017-09-10",
+    "Status": "inactive",
+    "AdditionalInfo": "Base see just million serious oil dream. Court bill foreign vote his."
+  },
+  {
+    "AccountID": "AC073",
+    "InvestorID": "IN030",
+    "AccountType": "retirement",
+    "Balance": 259037.11,
+    "OpeningDate": "2018-05-10",
+    "Status": "active",
+    "AdditionalInfo": "School keep under technology out. Nature with ahead let."
+  },
+  {
+    "AccountID": "AC074",
+    "InvestorID": "IN030",
+    "AccountType": "corporate",
+    "Balance": 226994.53,
+    "OpeningDate": "2016-02-27",
+    "Status": "closed",
+    "AdditionalInfo": "Do meeting system idea meet. Area often TV more service analysis."
+  },
+  {
+    "AccountID": "AC075",
+    "InvestorID": "IN031",
+    "AccountType": "retirement",
+    "Balance": 362128.19,
+    "OpeningDate": "2015-01-18",
+    "Status": "inactive",
+    "AdditionalInfo": "Threat project new."
+  },
+  {
+    "AccountID": "AC076",
+    "InvestorID": "IN031",
+    "AccountType": "joint",
+    "Balance": 682789.26,
+    "OpeningDate": "2018-10-04",
+    "Status": "inactive",
+    "AdditionalInfo": "Real kind campaign off. Push song part forget."
+  },
+  {
+    "AccountID": "AC077",
+    "InvestorID": "IN031",
+    "AccountType": "corporate",
+    "Balance": 600278.7,
+    "OpeningDate": "2023-08-12",
+    "Status": "closed",
+    "AdditionalInfo": "Nature animal piece person. Year bit watch the rest answer. Marriage ahead may visit beat whose."
+  },
+  {
+    "AccountID": "AC078",
+    "InvestorID": "IN031",
+    "AccountType": "corporate",
+    "Balance": 91660.12,
+    "OpeningDate": "2016-01-24",
+    "Status": "active",
+    "AdditionalInfo": "All necessary read popular night rise. Whose dinner how view foot poor police. Author specific director eight."
+  },
+  {
+    "AccountID": "AC079",
+    "InvestorID": "IN032",
+    "AccountType": "joint",
+    "Balance": 91647.45,
+    "OpeningDate": "2018-12-25",
+    "Status": "inactive",
+    "AdditionalInfo": "Bar wait particular suddenly this small onto. Everyone range clear somebody include. Air final onto whole."
+  },
+  {
+    "AccountID": "AC080",
+    "InvestorID": "IN032",
+    "AccountType": "trust",
+    "Balance": 936229.75,
+    "OpeningDate": "2022-03-07",
+    "Status": "inactive",
+    "AdditionalInfo": "Full approach car tree a safe. Operation Mr skill one."
+  },
+  {
+    "AccountID": "AC081",
+    "InvestorID": "IN033",
+    "AccountType": "trust",
+    "Balance": 46912.4,
+    "OpeningDate": "2019-05-06",
+    "Status": "closed",
+    "AdditionalInfo": "Would child fish true."
+  },
+  {
+    "AccountID": "AC082",
+    "InvestorID": "IN033",
+    "AccountType": "corporate",
+    "Balance": 67480.21,
+    "OpeningDate": "2015-01-04",
+    "Status": "inactive",
+    "AdditionalInfo": "Field blue good window."
+  },
+  {
+    "AccountID": "AC083",
+    "InvestorID": "IN033",
+    "AccountType": "corporate",
+    "Balance": 464719.07,
+    "OpeningDate": "2015-08-25",
+    "Status": "closed",
+    "AdditionalInfo": "Other her discuss interesting. Politics anything require baby however. Rule other threat fire lay."
+  },
+  {
+    "AccountID": "AC084",
+    "InvestorID": "IN033",
+    "AccountType": "individual",
+    "Balance": 694745.9,
+    "OpeningDate": "2021-02-20",
+    "Status": "active",
+    "AdditionalInfo": "Newspaper drug edge allow what decision reflect. Various provide notice begin central help. Senior sound will public art machine it. Investment read life you."
+  },
+  {
+    "AccountID": "AC085",
+    "InvestorID": "IN034",
+    "AccountType": "joint",
+    "Balance": 47335.05,
+    "OpeningDate": "2015-02-11",
+    "Status": "closed",
+    "AdditionalInfo": "Trade sea could particular dark reveal. White service test student act film. Rich budget action move."
+  },
+  {
+    "AccountID": "AC086",
+    "InvestorID": "IN034",
+    "AccountType": "trust",
+    "Balance": 137035.72,
+    "OpeningDate": "2022-01-19",
+    "Status": "inactive",
+    "AdditionalInfo": "Recent travel somebody organization a my audience. Goal development of part customer before sound. Allow establish three fire. Make hand recently morning."
+  },
+  {
+    "AccountID": "AC087",
+    "InvestorID": "IN034",
+    "AccountType": "individual",
+    "Balance": 15443.4,
+    "OpeningDate": "2019-04-03",
+    "Status": "inactive",
+    "AdditionalInfo": "Southern international loss. Reflect agent pick serve offer old bit."
+  },
+  {
+    "AccountID": "AC088",
+    "InvestorID": "IN035",
+    "AccountType": "trust",
+    "Balance": 649530.89,
+    "OpeningDate": "2020-05-10",
+    "Status": "inactive",
+    "AdditionalInfo": "Leg season style practice project exactly particular. Yourself prove community girl again within."
+  },
+  {
+    "AccountID": "AC089",
+    "InvestorID": "IN035",
+    "AccountType": "corporate",
+    "Balance": 557035.24,
+    "OpeningDate": "2022-10-23",
+    "Status": "inactive",
+    "AdditionalInfo": "Land recent budget religious story political behavior yourself. Thought site two true heart fight others start. About able simple turn."
+  },
+  {
+    "AccountID": "AC090",
+    "InvestorID": "IN036",
+    "AccountType": "joint",
+    "Balance": 122410.97,
+    "OpeningDate": "2021-07-14",
+    "Status": "active",
+    "AdditionalInfo": "Technology half arm hear film stage person."
+  },
+  {
+    "AccountID": "AC091",
+    "InvestorID": "IN036",
+    "AccountType": "joint",
+    "Balance": 852023.15,
+    "OpeningDate": "2023-02-27",
+    "Status": "active",
+    "AdditionalInfo": "Know strong operation visit summer. Report each economy gas. Kitchen star especially parent develop include use."
+  },
+  {
+    "AccountID": "AC092",
+    "InvestorID": "IN037",
+    "AccountType": "joint",
+    "Balance": 527546.6,
+    "OpeningDate": "2015-07-29",
+    "Status": "inactive",
+    "AdditionalInfo": "Often serious step house fall all member. Better common some far mouth. Remember me exist Mrs administration great."
+  },
+  {
+    "AccountID": "AC093",
+    "InvestorID": "IN038",
+    "AccountType": "joint",
+    "Balance": 741434.74,
+    "OpeningDate": "2016-03-06",
+    "Status": "closed",
+    "AdditionalInfo": "Guy stop join unit including economy range right."
+  },
+  {
+    "AccountID": "AC094",
+    "InvestorID": "IN038",
+    "AccountType": "trust",
+    "Balance": 538991.1,
+    "OpeningDate": "2020-12-30",
+    "Status": "active",
+    "AdditionalInfo": "Quickly long claim imagine as thousand scene. Guess institution who mention fear next force."
+  },
+  {
+    "AccountID": "AC095",
+    "InvestorID": "IN039",
+    "AccountType": "trust",
+    "Balance": 364305.16,
+    "OpeningDate": "2017-11-12",
+    "Status": "inactive",
+    "AdditionalInfo": "Test thought side yourself well. Base agreement almost close receive. Good analysis though tonight party policy."
+  },
+  {
+    "AccountID": "AC096",
+    "InvestorID": "IN039",
+    "AccountType": "trust",
+    "Balance": 102436.47,
+    "OpeningDate": "2016-10-11",
+    "Status": "active",
+    "AdditionalInfo": "Discussion family operation if benefit upon. Maintain build air team. Always close spend home."
+  },
+  {
+    "AccountID": "AC097",
+    "InvestorID": "IN039",
+    "AccountType": "individual",
+    "Balance": 579599.88,
+    "OpeningDate": "2020-05-13",
+    "Status": "closed",
+    "AdditionalInfo": "Thus first energy another dinner. Idea account fund."
+  },
+  {
+    "AccountID": "AC098",
+    "InvestorID": "IN040",
+    "AccountType": "corporate",
+    "Balance": 373406.83,
+    "OpeningDate": "2017-12-22",
+    "Status": "closed",
+    "AdditionalInfo": "Across voice hundred win great surface. High despite real simply remain. Individual work center any."
+  },
+  {
+    "AccountID": "AC099",
+    "InvestorID": "IN041",
+    "AccountType": "individual",
+    "Balance": 953391.46,
+    "OpeningDate": "2021-11-19",
+    "Status": "active",
+    "AdditionalInfo": "Nothing hit PM significant its."
+  },
+  {
+    "AccountID": "AC100",
+    "InvestorID": "IN041",
+    "AccountType": "trust",
+    "Balance": 221654.1,
+    "OpeningDate": "2020-08-13",
+    "Status": "inactive",
+    "AdditionalInfo": "Scientist capital class travel point hold cell various. One that son loss step few grow."
+  },
+  {
+    "AccountID": "AC101",
+    "InvestorID": "IN041",
+    "AccountType": "retirement",
+    "Balance": 602375.5,
+    "OpeningDate": "2023-11-29",
+    "Status": "closed",
+    "AdditionalInfo": "Themselves ok first upon number black kid. Grow worry suddenly big religious away prove."
+  },
+  {
+    "AccountID": "AC102",
+    "InvestorID": "IN042",
+    "AccountType": "individual",
+    "Balance": 315919.08,
+    "OpeningDate": "2016-11-01",
+    "Status": "active",
+    "AdditionalInfo": "Nice organization woman national recognize live site check. Consider play another right color choose kitchen. Mrs little light decision."
+  },
+  {
+    "AccountID": "AC103",
+    "InvestorID": "IN042",
+    "AccountType": "individual",
+    "Balance": 127130.36,
+    "OpeningDate": "2023-02-19",
+    "Status": "closed",
+    "AdditionalInfo": "Market conference her entire score not suddenly. Thousand inside responsibility job investment."
+  },
+  {
+    "AccountID": "AC104",
+    "InvestorID": "IN042",
+    "AccountType": "individual",
+    "Balance": 541013.18,
+    "OpeningDate": "2017-02-28",
+    "Status": "closed",
+    "AdditionalInfo": "Training resource field these. On toward writer."
+  },
+  {
+    "AccountID": "AC105",
+    "InvestorID": "IN043",
+    "AccountType": "retirement",
+    "Balance": 664856.78,
+    "OpeningDate": "2021-09-02",
+    "Status": "inactive",
+    "AdditionalInfo": "Former that money collection hotel money. Piece well matter bill drug happen. Turn shoulder know what bank board."
+  },
+  {
+    "AccountID": "AC106",
+    "InvestorID": "IN043",
+    "AccountType": "corporate",
+    "Balance": 741097.51,
+    "OpeningDate": "2024-05-28",
+    "Status": "active",
+    "AdditionalInfo": "Mission join less time director tell poor begin. Our president hold whatever."
+  },
+  {
+    "AccountID": "AC107",
+    "InvestorID": "IN043",
+    "AccountType": "corporate",
+    "Balance": 680804.36,
+    "OpeningDate": "2020-06-07",
+    "Status": "inactive",
+    "AdditionalInfo": "Surface including ever professor case least."
+  },
+  {
+    "AccountID": "AC108",
+    "InvestorID": "IN044",
+    "AccountType": "corporate",
+    "Balance": 299622.02,
+    "OpeningDate": "2017-09-14",
+    "Status": "closed",
+    "AdditionalInfo": "Wear agreement sport report last you former. Board show church section theory."
+  },
+  {
+    "AccountID": "AC109",
+    "InvestorID": "IN044",
+    "AccountType": "corporate",
+    "Balance": 816899.68,
+    "OpeningDate": "2017-06-16",
+    "Status": "inactive",
+    "AdditionalInfo": "Painting north world include. Idea forget number policy."
+  },
+  {
+    "AccountID": "AC110",
+    "InvestorID": "IN045",
+    "AccountType": "trust",
+    "Balance": 192164.3,
+    "OpeningDate": "2018-10-15",
+    "Status": "active",
+    "AdditionalInfo": "Term identify guess everybody some middle. Model seat mention particular through."
+  },
+  {
+    "AccountID": "AC111",
+    "InvestorID": "IN045",
+    "AccountType": "individual",
+    "Balance": 734854.91,
+    "OpeningDate": "2016-10-07",
+    "Status": "active",
+    "AdditionalInfo": "Fire hundred end college. Health one wind need certain assume west."
+  },
+  {
+    "AccountID": "AC112",
+    "InvestorID": "IN045",
+    "AccountType": "joint",
+    "Balance": 60770.41,
+    "OpeningDate": "2016-11-27",
+    "Status": "active",
+    "AdditionalInfo": "Medical instead red look. Clearly mouth sing rate claim. Just trip garden smile."
+  },
+  {
+    "AccountID": "AC113",
+    "InvestorID": "IN046",
+    "AccountType": "joint",
+    "Balance": 913713.62,
+    "OpeningDate": "2022-12-04",
+    "Status": "inactive",
+    "AdditionalInfo": "Mouth voice point actually personal boy. Site long body fine prevent resource water."
+  },
+  {
+    "AccountID": "AC114",
+    "InvestorID": "IN046",
+    "AccountType": "individual",
+    "Balance": 226153.09,
+    "OpeningDate": "2022-04-24",
+    "Status": "active",
+    "AdditionalInfo": "White address standard herself ever. Exist pay both push happy. Page child face space. Safe determine pick foot."
+  },
+  {
+    "AccountID": "AC115",
+    "InvestorID": "IN046",
+    "AccountType": "retirement",
+    "Balance": 82589.51,
+    "OpeningDate": "2016-08-12",
+    "Status": "inactive",
+    "AdditionalInfo": "Time lawyer process total."
+  },
+  {
+    "AccountID": "AC116",
+    "InvestorID": "IN047",
+    "AccountType": "trust",
+    "Balance": 482057.53,
+    "OpeningDate": "2021-11-20",
+    "Status": "closed",
+    "AdditionalInfo": "Some west soldier ask reveal. Five itself remember news nothing somebody."
+  },
+  {
+    "AccountID": "AC117",
+    "InvestorID": "IN048",
+    "AccountType": "corporate",
+    "Balance": 582199.08,
+    "OpeningDate": "2021-09-23",
+    "Status": "closed",
+    "AdditionalInfo": "Between mind time million wall worry ten. Trip close especially threat. History especially then as focus company."
+  },
+  {
+    "AccountID": "AC118",
+    "InvestorID": "IN048",
+    "AccountType": "retirement",
+    "Balance": 950647.62,
+    "OpeningDate": "2016-07-12",
+    "Status": "active",
+    "AdditionalInfo": "Health forget Democrat role and and. Response action age keep stand."
+  },
+  {
+    "AccountID": "AC119",
+    "InvestorID": "IN048",
+    "AccountType": "retirement",
+    "Balance": 41770.47,
+    "OpeningDate": "2018-04-07",
+    "Status": "active",
+    "AdditionalInfo": "Building professional amount political. Computer short great rule until. Open hair action point option."
+  },
+  {
+    "AccountID": "AC120",
+    "InvestorID": "IN049",
+    "AccountType": "retirement",
+    "Balance": 399324.91,
+    "OpeningDate": "2016-05-01",
+    "Status": "closed",
+    "AdditionalInfo": "Stage plan hand difference word including assume. Painting place notice we tree fast color."
+  },
+  {
+    "AccountID": "AC121",
+    "InvestorID": "IN049",
+    "AccountType": "joint",
+    "Balance": 505172.08,
+    "OpeningDate": "2015-06-19",
+    "Status": "inactive",
+    "AdditionalInfo": "Capital past develop sport fine south true. Store memory real social TV fast. Development big including necessary southern develop."
+  },
+  {
+    "AccountID": "AC122",
+    "InvestorID": "IN049",
+    "AccountType": "corporate",
+    "Balance": 977640.74,
+    "OpeningDate": "2023-11-08",
+    "Status": "inactive",
+    "AdditionalInfo": "View discussion resource prepare. Big debate under executive. At beautiful drop answer."
+  },
+  {
+    "AccountID": "AC123",
+    "InvestorID": "IN050",
+    "AccountType": "trust",
+    "Balance": 884548.33,
+    "OpeningDate": "2021-03-31",
+    "Status": "active",
+    "AdditionalInfo": "Over beat three majority about happy. Choose eye worry it make word last."
+  },
+  {
+    "AccountID": "AC124",
+    "InvestorID": "IN050",
+    "AccountType": "individual",
+    "Balance": 669786.42,
+    "OpeningDate": "2023-07-02",
+    "Status": "inactive",
+    "AdditionalInfo": "Everything mouth under visit boy meeting party. Government interview energy meet still."
+  },
+  {
+    "AccountID": "AC125",
+    "InvestorID": "IN050",
+    "AccountType": "retirement",
+    "Balance": 217701.05,
+    "OpeningDate": "2020-07-20",
+    "Status": "closed",
+    "AdditionalInfo": "Step example sister determine. Education eight ball development child increase."
+  }
+]

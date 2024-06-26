@@ -1,0 +1,101 @@
+InvestorID,Name,Type,Email,Phone,RiskProfile,InvestmentGoals,Address,RegistrationDate
+IN001,Ashley Sharp,Financial Advisor,richard87@example.com,(201)951-7582x00791,Aggressive,Retirement Planning,"650 Liu Burgs Suite 056
+South Sierra, AL 65420",2015-11-15
+IN002,James Rasmussen,Individual Investor,brockkatherine@example.com,001-804-454-5924,Balanced,Capital Appreciation,"4504 Brian Lodge Apt. 191
+Jenningsmouth, OR 85306",2021-06-21
+IN003,Robert Spencer,Institutional Investor,rickeymay@example.com,+1-768-611-9609,Balanced,Capital Appreciation,"1917 John Ways Suite 799
+Michaelview, PR 22348",2024-06-16
+IN004,Peter Melton,Financial Advisor,umendez@example.net,001-373-845-0128x52031,Aggressive,Retirement Planning,"USS Oliver
+FPO AA 55970",2019-03-05
+IN005,Katie Williams,Individual Investor,shanejuarez@example.net,+1-385-756-6970,Conservative,Capital Appreciation,"578 Kim Common
+Lake Richard, NH 34983",2018-07-28
+IN006,Julian Norris,Institutional Investor,rachel57@example.com,+1-858-405-3578x083,Balanced,Diversification,"00679 Allen Loop
+Randallmouth, WA 18395",2021-11-03
+IN007,Juan Vincent,Financial Advisor,patriciaporter@example.net,220-786-0463,Moderate,Diversification,"917 Virginia Parks
+East Markside, IA 78555",2018-06-27
+IN008,Michael Green,Individual Investor,nschneider@example.net,001-301-978-0929x386,Conservative,Income Generation,"0270 Simmons Hollow
+Paulmouth, AR 18247",2020-04-04
+IN009,Jeffrey Jones,Institutional Investor,bbrown@example.net,001-923-993-9458x704,Conservative,Retirement Planning,"4100 Jake Well Apt. 453
+New Andrea, CA 18073",2016-11-11
+IN010,Jonathan Hernandez,Financial Advisor,emily67@example.com,(724)317-9048,Moderate,Income Generation,"19192 Carlos Forest
+West Kimberlybury, VA 65553",2023-12-15
+IN011,Eric Martinez,Individual Investor,huntergarcia@example.com,7066454474,Aggressive,Diversification,"69699 Donald Courts Apt. 240
+East Christian, AK 62348",2019-10-28
+IN012,Nicole Jones,Institutional Investor,khester@example.org,605.775.9252,Moderate,Capital Appreciation,"914 David Wall Apt. 071
+Michaelburgh, DE 59132",2021-03-02
+IN013,Michelle Baker MD,Financial Advisor,doughertyjill@example.com,6632040461,Conservative,Wealth Accumulation,"978 Kelley Shoal
+Port Rhonda, NV 27436",2023-05-02
+IN014,Paul Lewis,Individual Investor,spencercharles@example.net,001-603-701-0704x6936,Aggressive,Capital Appreciation,"4248 Johnson Parkway Apt. 956
+North Luisberg, MS 40524",2018-05-20
+IN015,Joseph King,Institutional Investor,yowen@example.org,811.302.2597,Balanced,Income Generation,"5611 Erica Crescent
+Vargasbury, MS 89024",2015-08-26
+IN016,Julie Miller,Financial Advisor,john70@example.net,933-220-8978x973,Conservative,Income Generation,"568 Michael Turnpike Suite 584
+North Heather, KS 04732",2024-05-23
+IN017,Andrew Rogers,Individual Investor,andrewshea@example.com,(848)779-8358x3862,Moderate,Wealth Accumulation,"21972 Christopher Point Suite 237
+West Brittneymouth, GA 15043",2019-05-11
+IN018,Jennifer Mcclain,Institutional Investor,katherine50@example.com,884.606.6200x06494,Balanced,Capital Appreciation,"02860 Stanton Summit
+Johnshire, ME 71521",2023-09-16
+IN019,Charlene Beltran,Financial Advisor,andrewdavis@example.net,440-493-0092,Aggressive,Income Generation,"134 Olivia Square
+West Claudiaside, NV 06362",2022-03-25
+IN020,Amy Williams,Individual Investor,yangnicholas@example.org,+1-415-203-6652x04719,Moderate,Wealth Accumulation,"86995 Christian Ridge Apt. 081
+Johnfort, NE 94898",2017-04-18
+IN021,Mr. Leonard Holland,Institutional Investor,paige76@example.com,(405)971-2709x205,Balanced,Retirement Planning,"3328 Cody Mall
+Williamsside, UT 32203",2020-06-15
+IN022,Adam Ellison,Financial Advisor,ngomez@example.org,(507)355-3629,Conservative,Wealth Accumulation,"5947 Rivera Orchard
+West Shaneland, GA 04302",2021-05-02
+IN023,Lisa Nichols,Individual Investor,lauren60@example.net,+1-202-603-3594x216,Aggressive,Retirement Planning,"210 Shelley Squares
+Erikside, MD 49744",2024-06-10
+IN024,Kaylee Miller,Institutional Investor,lgraham@example.net,001-556-413-6256x9009,Balanced,Income Generation,"27144 Morris Track Apt. 749
+Boltonside, OR 54884",2024-01-22
+IN025,Anthony Palmer,Financial Advisor,blakejones@example.com,841.591.3711x2677,Conservative,Income Generation,"8834 Smith Meadows Apt. 512
+Lake Robert, ID 43513",2019-02-21
+IN026,Anthony Davis,Individual Investor,amy71@example.net,266-495-6546x95514,Conservative,Wealth Accumulation,"63658 Villarreal Keys Apt. 365
+Christopherbury, IL 70639",2016-10-09
+IN027,James Conner,Institutional Investor,malonemark@example.net,001-234-581-4470,Balanced,Capital Appreciation,"50966 Banks Walk Apt. 325
+North Yolandaburgh, ME 25227",2016-07-25
+IN028,William Santana,Financial Advisor,rojasbrian@example.net,001-574-542-6680,Moderate,Wealth Accumulation,"0461 Gutierrez Stravenue Apt. 481
+Cortezside, IA 08711",2023-01-23
+IN029,John Watts,Individual Investor,apriltrujillo@example.net,+1-325-333-0260x8951,Aggressive,Diversification,"70835 Bryan Overpass Suite 476
+Jeffreyhaven, VT 47427",2023-01-22
+IN030,Mark Wolf,Institutional Investor,mcraig@example.com,706.224.4317x83232,Aggressive,Retirement Planning,"1551 Joseph Street Suite 943
+Tonyafurt, FL 99346",2022-12-16
+IN031,Tiffany Horton,Financial Advisor,goldensusan@example.com,(935)938-3458x7749,Balanced,Wealth Accumulation,"36951 Keith Villages Suite 168
+Foleyfort, MI 94360",2019-04-29
+IN032,Carly Vasquez,Individual Investor,ffrey@example.com,(871)757-6507x9184,Balanced,Diversification,"60242 Key Ports Apt. 610
+South William, PA 34518",2017-04-15
+IN033,Robert Adams MD,Institutional Investor,xcohen@example.net,780-306-4183,Aggressive,Income Generation,"11598 Riley Isle
+Patriciaberg, GA 61258",2023-07-04
+IN034,Terri Clarke,Financial Advisor,danielle32@example.com,7668514897,Moderate,Income Generation,"52699 Jonathan Shore
+South Mauricemouth, DE 82911",2022-04-05
+IN035,Joshua Nelson,Individual Investor,kristy20@example.com,597.947.8438,Aggressive,Capital Appreciation,"4655 Conway Curve Apt. 061
+North Laura, WV 23281",2021-03-16
+IN036,Natalie Turner,Institutional Investor,michellemartin@example.com,(535)760-9296,Aggressive,Wealth Accumulation,"112 Morgan Dale
+Lake Jasminport, WV 79627",2017-07-19
+IN037,Devin Cannon,Financial Advisor,stephaniewest@example.net,(207)715-4115,Balanced,Retirement Planning,"0586 White Villages Suite 861
+Port Kellybury, DE 41911",2020-11-05
+IN038,Charles Morrison,Individual Investor,nicole69@example.com,001-691-481-2273x595,Conservative,Wealth Accumulation,"PSC 9602, Box 9726
+APO AA 67936",2018-12-23
+IN039,Shelia Chambers,Institutional Investor,troyphillips@example.com,001-678-351-5316x3710,Aggressive,Retirement Planning,"90767 Martin Extensions Apt. 530
+Dominiqueberg, VI 53241",2017-06-10
+IN040,Noah Hayes,Financial Advisor,markmartin@example.net,(695)836-7612x60522,Moderate,Wealth Accumulation,"89570 Victoria Branch Suite 392
+Riveramouth, SD 50180",2017-05-14
+IN041,Patricia Smith,Individual Investor,johnsonrhonda@example.com,346.445.1332x67193,Conservative,Capital Appreciation,"99466 Cross Islands
+Pierceport, TX 40904",2023-05-24
+IN042,Debra Gilbert,Institutional Investor,beth74@example.org,+1-588-383-9657x02622,Moderate,Wealth Accumulation,"183 Underwood Lodge
+West Jenniferville, MI 89772",2020-12-12
+IN043,Rachel Bond,Financial Advisor,holly02@example.org,001-695-610-1733x3858,Conservative,Capital Appreciation,"05190 Williams Expressway
+West Isabelhaven, SD 57465",2017-06-02
+IN044,David Bolton,Individual Investor,veleztravis@example.org,210-346-2789x909,Moderate,Wealth Accumulation,"0184 Laura Port
+Brownport, PW 50459",2020-02-03
+IN045,Ashley Morgan,Institutional Investor,tara48@example.org,+1-353-830-9586,Conservative,Capital Appreciation,"465 Vincent Lakes Apt. 561
+North Deniseville, CT 86409",2019-05-19
+IN046,Kelly Williams,Financial Advisor,vasquezkenneth@example.net,(939)268-7379x1133,Conservative,Income Generation,"6092 Schneider Well Suite 639
+Gibsonmouth, MN 85061",2018-03-10
+IN047,Sonya Fisher,Individual Investor,candacebailey@example.com,+1-745-751-7384x50218,Aggressive,Retirement Planning,"673 Suzanne Forges Suite 350
+Lopezmouth, GA 24213",2019-12-12
+IN048,Maxwell Torres,Institutional Investor,meghanpotter@example.org,649.471.9463x913,Moderate,Wealth Accumulation,"USS Butler
+FPO AP 34647",2023-12-24
+IN049,Michael Brown,Financial Advisor,travisknapp@example.org,001-641-562-6155x7047,Moderate,Diversification,"2901 Cox Plains Apt. 298
+Hartfurt, GU 68674",2020-02-23
+IN050,Danielle Williams,Individual Investor,kristinhughes@example.com,+1-562-432-6101,Aggressive,Income Generation,"99447 Myers Ridges
+Cartershire, VT 06065",2023-10-29

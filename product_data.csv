@@ -1,0 +1,26 @@
+ID,Key,Type,Name,Currency Code,Status,Credit Interest Rate,Debit Interest Rate,Credit Line Amount
+PR12345678,DVIP1,Savings Deposit Investment Account,Regular Savings Account,USD,active,0.01,0,0
+PR87654321,DVIP2,Savings Deposit Investment Account,Salary Deposit Account for Employees,USD,active,0.01,0,0
+CR00000001,CRCD1,Credit Card,Signature Business,USD,active,18,0,50000
+CR00000002,CRCD2,Credit Card,Black Business,USD,active,19,0,120000
+CR00000003,CRCD3,Credit Card,Silver Cashback,USD,active,20,0,25000
+CR00000004,CRCD4,Credit Card,Gold Cashback,USD,active,21,0,40000
+CR00000005,CRCD5,Credit Card,Platinum Cashback,USD,active,22,0,60000
+CR00000006,CRCD6,Credit Card,Diamond Cashback,USD,active,23,0,90000
+CR00000007,CRCD7,Credit Card,Silver Elite,USD,active,24,0,25000
+CR00000008,CRCD8,Credit Card,Gold Elite,USD,active,18,0,75000
+CR00000009,CRCD9,Credit Card,Platinum Elite,USD,active,19,0,80000
+CR00000010,CRCD10,Credit Card,Diamond Elite,USD,active,20,0,150000
+CR00000011,CRCD11,Credit Card,Silver Rewards,USD,active,21,0,30000
+CR00000012,CRCD12,Credit Card,Gold Rewards,USD,active,22,0,45000
+CR00000013,CRCD13,Credit Card,Silver Platinum Rewards,USD,active,23,0,70000
+CR00000014,CRCD14,Credit Card,Gold Standard,USD,active,24,0,20000
+CR00000015,CRCD15,Credit Card,Platinum Standard,USD,active,18,0,30000
+CR00000016,CRCD16,Credit Card,Diamond Standard,USD,active,19,0,45000
+CR00000017,CRCD17,Credit Card,Infinite Standard,USD,active,20,0,50000
+CR00000018,CRCD18,Credit Card,Silver Student,USD,active,21,0,15000
+CR00000019,CRCD19,Credit Card,Gold Student,USD,active,22,0,30000
+CR00000020,CRCD20,Credit Card,Platinum Student,USD,active,23,0,35000
+CR00000021,CRCD21,Credit Card,Diamond Student,USD,active,24,0,75000
+CR00000022,CRCD22,Credit Card,Signature Travel,USD,active,18,0,40000
+CR00000023,CRCD23,Credit Card,Titanium Travel,USD,active,19,0,60000
